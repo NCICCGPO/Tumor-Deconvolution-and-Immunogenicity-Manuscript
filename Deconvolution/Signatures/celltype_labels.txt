@@ -1,0 +1,287 @@
+CellTypeID	CellType	CellGroup	Tool
+Adipocytes_xCell	Adipocyte	Stromal cells	xCell
+Angiogenesis...negative.cancerSEA_ssGSEA	Angiogenesis	Pathway	ssGSEA
+Angiogenesis...positive.cancerSEA_ssGSEA	Angiogenesis	Pathway	ssGSEA
+Angiogenesis.HALLMARK_ssGSEA	Angiogenesis	Pathway	ssGSEA
+Angiogenesis.Sanders_ssGSEA	Angiogenesis	Pathway	ssGSEA
+Antigen.presenting.machinery.Sanders_ssGSEA	APM	Pathway	ssGSEA
+Astrocytes_xCell	Astrocyte	Stromal cells	xCell
+AXL.pathway.Pallocca_ssGSEA	AXL.Pathway	Pathway	ssGSEA
+B.cells.memory_Cibersort	B.cell.memory	Leukocyte	Cibersort
+B.cells.memory_CIBERSORTx	B.cell.memory	Leukocyte	CIBERSORTx
+B.cells.memory_SGL	B.cell.memory	Leukocyte	SGL
+Class.switched.memory.B.cells_xCell	B.cell.class.switched	Leukocyte	xCell
+Memory.B.cell.Adaptive_ssGSEA	B.cell.memory	Leukocyte	ssGSEA
+Memory.B.cells_xCell	B.cell.memory	Leukocyte	xCell
+Immature..B.cell.Adaptive_ssGSEA	B.cell.immature	Leukocyte	ssGSEA
+B.cells.naive_Cibersort	B.cell.naive	Leukocyte	Cibersort
+B.cells.naive_CIBERSORTx	B.cell.naive	Leukocyte	CIBERSORTx
+B.cells.naive_SGL	B.cell.naive	Leukocyte	SGL
+naive.B.cells_xCell	B.cell.naive	Leukocyte	xCell
+pro.B.cells_xCell	B.cell.pro	Leukocyte	xCell
+Activated.B.cell.Adaptive_ssGSEA	B.cells	Leukocyte	ssGSEA
+B.cell_quantiseq	B.cells	Leukocyte	quantiseq
+B.cell_TIMER	B.cells	Leukocyte	TIMER
+B.cells_xCell	B.cells	Leukocyte	xCell
+B.cells.Danaher_ssGSEA	B.cells	Leukocyte	ssGSEA
+B.cells.Davoli_ssGSEA	B.cells	Leukocyte	ssGSEA
+B.cells.Sanders_ssGSEA	B.cells	Leukocyte	ssGSEA
+B.lineage_MCP	B.cells	Leukocyte	MCP
+Bcells_EPIC-mRNA	B.cells	Leukocyte	EPIC-mRNA
+Basophils_xCell	Basophils	Leukocyte	xCell
+CD45.Danaher_ssGSEA	CD45.pos.cell	immune cell	ssGSEA
+Checkpoint.Pallocca_ssGSEA	Checkpoint	Pathway	ssGSEA
+Chondrocytes_xCell	Chondrocytes	Stromal cells	xCell
+Chronic.Inflammation_ssGSEA	Chronic.Inflammation	Pathway	ssGSEA
+CLP_xCell	CLP	Progenitor cells	xCell
+CMP_xCell	CMP	Progenitor cells	xCell
+Anti.inflammatory.Cytokines_ssGSEA	Cytokine.anti	Pathway	ssGSEA
+Pro.inflammatory.Cytokines_ssGSEA	Cytokine.pro	Pathway	ssGSEA
+Cytotoxic.cells.Danaher_ssGSEA	Cytotoxic.lymphocytes	Leukocyte	ssGSEA
+Cytotoxic.cells.Sanders_ssGSEA	Cytotoxic.lymphocytes	Leukocyte	ssGSEA
+Cytotoxic.lymphocytes_MCP	Cytotoxic.lymphocytes	Leukocyte	MCP
+cDC_xCell	Dendritic.cell	Leukocyte	xCell
+DC_xCell	Dendritic.cell	Leukocyte	xCell
+DC.Danaher_ssGSEA	Dendritic.cell	Leukocyte	ssGSEA
+DC.Sanders_ssGSEA	Dendritic.cell	Leukocyte	ssGSEA
+Dendritic.Davoli_ssGSEA	Dendritic.cell	Leukocyte	ssGSEA
+Activated.dendritic.cell.Innate_ssGSEA	Dendritic.cell.activated	Leukocyte	ssGSEA
+aDC_xCell	Dendritic.cell.activated	Leukocyte	xCell
+aDC.Sanders_ssGSEA	Dendritic.cell.activated	Leukocyte	ssGSEA
+Dendritic.cells.activated_Cibersort	Dendritic.cell.activated	Leukocyte	Cibersort
+Dendritic.cells.activated_CIBERSORTx	Dendritic.cell.activated	Leukocyte	CIBERSORTx
+Dendritic.cells.activated_SGL	Dendritic.cell.activated	Leukocyte	SGL
+Immature.dendritic.cell.Innate_ssGSEA	Dendritic.cell.immature	Leukocyte	ssGSEA
+Dendritic.cells.resting_Cibersort	Dendritic.cell.resting	Leukocyte	Cibersort
+Dendritic.cells.resting_CIBERSORTx	Dendritic.cell.resting	Leukocyte	CIBERSORTx
+Dendritic.cells.resting_SGL	Dendritic.cell.resting	Leukocyte	SGL
+iDC_xCell	Dendritic.cell.inactive	Leukocyte	xCell
+iDC.Sanders_ssGSEA	Dendritic.cell.inactive	Leukocyte	ssGSEA
+Myeloid.dendritic.cell_quantiseq	Dendritic.cell.myeloid	Leukocyte	quantiseq
+Myeloid.dendritic.cell_TIMER	Dendritic.cell.myeloid	Leukocyte	TIMER
+Myeloid.dendritic.cells_MCP	Dendritic.cell.myeloid	Leukocyte	MCP
+pDC_xCell	Dendritic.cell.plasmacytoid	Leukocyte	xCell
+Plasmacytoid.dendritic.cell.Innate_ssGSEA	Dendritic.cell.plasmacytoid	Leukocyte	ssGSEA
+pDC.Sanders_ssGSEA	Dendritic.cell.plasmacytoid	Leukocyte	ssGSEA
+EMT...negative.cancerSEA_ssGSEA	EMT.neg	Pathway	ssGSEA
+EMT...positive.cancerSEA_ssGSEA	EMT.pos	Pathway	ssGSEA
+EMT.Canonical.Marker_ssGSEA	EMT	Pathway	ssGSEA
+EMT.HALLMARK_ssGSEA	EMT	Pathway	ssGSEA
+Endothelial_EPIC-mRNA	Endothelial.cell	Stromal cells	EPIC-mRNA
+Endothelial.CellMarker_ssGSEA	Endothelial.cell	Stromal cells	ssGSEA
+Endothelial.cells_MCP	Endothelial.cell	Stromal cells	MCP
+Endothelial.cells_xCell	Endothelial.cell	Stromal cells	xCell
+Endothelial.Literature_ssGSEA	Endothelial.cell	Stromal cells	ssGSEA
+ly.Endothelial.cells_xCell	Endothelial.cell.ly	Stromal cells	xCell
+mv.Endothelial.cells_xCell	Endothelial.cell.mv	Stromal cells	xCell
+Eosinophil.Innate_ssGSEA	Eosinophils	Leukocyte	ssGSEA
+Eosinophils_Cibersort	Eosinophils	Leukocyte	Cibersort
+Eosinophils_CIBERSORTx	Eosinophils	Leukocyte	CIBERSORTx
+Eosinophils_SGL	Eosinophils	Leukocyte	SGL
+Eosinophils_xCell	Eosinophils	Leukocyte	xCell
+Eosinophils.Sanders_ssGSEA	Eosinophils	Leukocyte	ssGSEA
+Epithelial.cells_xCell	Epithelial.cell	Epithelial cells	xCell
+Epithelial.Literature_ssGSEA	Epithelial.cell	Epithelial cells	ssGSEA
+Erythrocytes_xCell	Erythrocytes	Red blood cells	xCell
+CAF.pro.tumorigenesis_ssGSEA	Fibroblasts.CAF	Stromal cells	ssGSEA
+CAF.TIDE_ssGSEA	Fibroblasts.CAF	Stromal cells	ssGSEA
+CAF.Tumo.suppresive_ssGSEA	Fibroblasts.CAF.TS	Stromal cells	ssGSEA
+CAFs_EPIC-mRNA	Fibroblasts.CAF	Stromal cells	EPIC-mRNA
+Fibroblast.CellMarker_ssGSEA	Fibroblasts	Stromal cells	ssGSEA
+Fibroblasts_MCP	Fibroblasts	Stromal cells	MCP
+Fibroblasts_xCell	Fibroblasts	Stromal cells	xCell
+Fibroblasts.Literature_ssGSEA	Fibroblasts	Stromal cells	ssGSEA
+GMP_xCell	GMP	Progenitor cells	xCell
+Hepatocytes_xCell	Hepatocyte	Hepatocyte cells	xCell
+HSC_xCell	HSC	Stem cells	xCell
+Hypoxia...negative.cancerSEA_ssGSEA	Hypoxia.neg	Pathway	ssGSEA
+Hypoxia...positive.cancerSEA_ssGSEA	Hypoxia.pos	Pathway	ssGSEA
+Hypoxia.HALLMARK_ssGSEA	Hypoxia	Pathway	ssGSEA
+ICB.resistance.signature.1.Pallocca_ssGSEA	ICB.sig1	Pathway	ssGSEA
+ICB.resistance.signature.2.Pallocca_ssGSEA	ICB.sig2	Pathway	ssGSEA
+ICB.resistance.signature.3.Pallocca_ssGSEA	ICB.sig3	Pathway	ssGSEA
+IFN.y..expanded.set..Pallocca_ssGSEA	IFNG	Pathway	ssGSEA
+IFN.y..reduced.set..Pallocca_ssGSEA	IFNG	Pathway	ssGSEA
+IFNG.Ayers_ssGSEA	IFNG	Pathway	ssGSEA
+Inflammation...negative.cancerSEA_ssGSEA	Inflamation.neg	Pathway	ssGSEA
+Inflammation...positive.cancerSEA_ssGSEA	Inflamation	Pathway	ssGSEA
+Inflammatory.Angiogenic.Chemokines_ssGSEA	Inflamation.Chemokines	Pathway	ssGSEA
+Inflammatory.Angiostatic.Chemokines_ssGSEA	Inflamation.Chemokines	Pathway	ssGSEA
+Inflammatory.Chemokines_ssGSEA	Inflamation.Chemokines	Pathway	ssGSEA
+Tcell_Inflamed.Ayers_ssGSEA	Inflamation.Tcells	Pathway	ssGSEA
+Keratinocytes_xCell	Keratinocytes	Keratinocytes cells	xCell
+Macrophage_TIMER	Macrophage	Leukocyte	TIMER
+Macrophage.Innate_ssGSEA	Macrophage	Leukocyte	ssGSEA
+Macrophages_EPIC-mRNA	Macrophage	Leukocyte	EPIC-mRNA
+Macrophages_xCell	Macrophage	Leukocyte	xCell
+Macrophages.Danaher_ssGSEA	Macrophage	Leukocyte	ssGSEA
+Macrophages.Davoli_ssGSEA	Macrophage	Leukocyte	ssGSEA
+Macrophages.M0_Cibersort	Macrophages.M0	Leukocyte	Cibersort
+Macrophages.M0_CIBERSORTx	Macrophages.M0	Leukocyte	CIBERSORTx
+Macrophages.M0_SGL	Macrophages.M0	Leukocyte	SGL
+Macrophages.Sanders_ssGSEA	Macrophage	Leukocyte	ssGSEA
+Macrophage.M1_quantiseq	Macrophages.M1	Leukocyte	quantiseq
+Macrophages.M1_Cibersort	Macrophages.M1	Leukocyte	Cibersort
+Macrophages.M1_CIBERSORTx	Macrophages.M1	Leukocyte	CIBERSORTx
+Macrophages.M1_SGL	Macrophages.M1	Leukocyte	SGL
+Macrophages.M1_xCell	Macrophages.M1	Leukocyte	xCell
+Macrophages.M1.Davoli_ssGSEA	Macrophages.M1	Leukocyte	ssGSEA
+Macrophage.M2_quantiseq	Macrophages.M2	Leukocyte	quantiseq
+Macrophage.M2.CellMarker_ssGSEA	Macrophages.M2	Leukocyte	ssGSEA
+Macrophages.M2_Cibersort	Macrophages.M2	Leukocyte	Cibersort
+Macrophages.M2_CIBERSORTx	Macrophages.M2	Leukocyte	CIBERSORTx
+Macrophages.M2_SGL	Macrophages.M2	Leukocyte	SGL
+Macrophages.M2_xCell	Macrophages.M2	Leukocyte	xCell
+Macrophages.M2.Davoli_ssGSEA	Macrophages.M2	Leukocyte	ssGSEA
+TAM.M2_M1.TIDE_ssGSEA	Macrophage.M2_M1	Leukocyte	ssGSEA
+Mast.cell.Innate_ssGSEA	Mast.cell	Leukocyte	ssGSEA
+Mast.cells_xCell	Mast.cell	Leukocyte	xCell
+Mast.cells.Danaher_ssGSEA	Mast.cell	Leukocyte	ssGSEA
+Mast.cells.Sanders_ssGSEA	Mast.cell	Leukocyte	ssGSEA
+Mast.cells.activated_Cibersort	Mast.cell.activated	Leukocyte	Cibersort
+Mast.cells.activated_CIBERSORTx	Mast.cell.activated	Leukocyte	CIBERSORTx
+Mast.cells.activated_SGL	Mast.cell.activated	Leukocyte	SGL
+Mast.cells.resting_Cibersort	Mast.cell.resting	Leukocyte	Cibersort
+Mast.cells.resting_CIBERSORTx	Mast.cell.resting	Leukocyte	CIBERSORTx
+Mast.cells.resting_SGL	Mast.cell.resting	Leukocyte	SGL
+MDSC.Innate_ssGSEA	MDSC	immune cell	ssGSEA
+MDSC.TIDE_ssGSEA	MDSC	immune cell	ssGSEA
+Megakaryocytes_xCell	Megakaryocytes	immune cell	xCell
+Melanocytes_xCell	Melanocytes	Melanocytes cells	xCell
+MEP_xCell	MEP	Progenitor cells	xCell
+Mesangial.cells_xCell	Mesangial.cell	Mesangial.cell cells	xCell
+MHC.Pallocca_ssGSEA	MHC	Pathway	ssGSEA
+MMR.machinery..Pallocca_ssGSEA	MMR	Pathway	ssGSEA
+Monocyte_quantiseq	Monocytes	Leukocyte	quantiseq
+Monocyte.Innate_ssGSEA	Monocytes	Leukocyte	ssGSEA
+Monocytes_Cibersort	Monocytes	Leukocyte	Cibersort
+Monocytes_CIBERSORTx	Monocytes	Leukocyte	CIBERSORTx
+Monocytes_SGL	Monocytes	Leukocyte	SGL
+Monocytes_xCell	Monocytes	Leukocyte	xCell
+Monocytic.lineage_MCP	Monocytic.lineage	Leukocyte	MCP
+MPP_xCell	MPP	Progenitor cells	xCell
+MSC_xCell	MSC	Stem cells	xCell
+Myocytes_xCell	Myocytes	Myocytes cells	xCell
+Neurons_xCell	Neurons	Neurons cells	xCell
+Neutrophil_quantiseq	Neutrophils	Leukocyte	quantiseq
+Neutrophil_TIMER	Neutrophils	Leukocyte	TIMER
+Neutrophil.Innate_ssGSEA	Neutrophils	Leukocyte	ssGSEA
+Neutrophils_Cibersort	Neutrophils	Leukocyte	Cibersort
+Neutrophils_CIBERSORTx	Neutrophils	Leukocyte	CIBERSORTx
+Neutrophils_MCP	Neutrophils	Leukocyte	MCP
+Neutrophils_SGL	Neutrophils	Leukocyte	SGL
+Neutrophils_xCell	Neutrophils	Leukocyte	xCell
+Neutrophils.Danaher_ssGSEA	Neutrophils	Leukocyte	ssGSEA
+Neutrophils.Sanders_ssGSEA	Neutrophils	Leukocyte	ssGSEA
+CD8.effector.NK.cells.Davoli_ssGSEA	NK.cell	Leukocyte	ssGSEA
+Natural.killer.cell.Innate_ssGSEA	NK.cell	Leukocyte	ssGSEA
+NK.cell_quantiseq	NK.cell	Leukocyte	quantiseq
+NK.cells_MCP	NK.cell	Leukocyte	MCP
+NK.cells_xCell	NK.cell	Leukocyte	xCell
+NK.cells.Danaher_ssGSEA	NK.cell	Leukocyte	ssGSEA
+NK.cells.Davoli_ssGSEA	NK.cell	Leukocyte	ssGSEA
+NK.cells.Sanders_ssGSEA	NK.cell	Leukocyte	ssGSEA
+NKcells_EPIC-mRNA	NK.cell	Leukocyte	EPIC-mRNA
+NK.cells.activated_Cibersort	NK.cell.activated	Leukocyte	Cibersort
+NK.cells.activated_CIBERSORTx	NK.cell.activated	Leukocyte	CIBERSORTx
+NK.cells.activated_SGL	NK.cell.activated	Leukocyte	SGL
+CD56bright.natural.killer.cell.Innate_ssGSEA	NK.cell.bright	Leukocyte	ssGSEA
+NK.CD56bright.cells.Sanders_ssGSEA	NK.cell.bright	Leukocyte	ssGSEA
+CD56dim.natural.killer.cell.Innate_ssGSEA	NK.cell.dim	Leukocyte	ssGSEA
+NK.CD56dim.cells.Danaher_ssGSEA	NK.cell.dim	Leukocyte	ssGSEA
+NK.CD56dim.cells.Sanders_ssGSEA	NK.cell.dim	Leukocyte	ssGSEA
+NK.cells.resting_Cibersort	NK.cell.resting	Leukocyte	Cibersort
+NK.cells.resting_CIBERSORTx	NK.cell.resting	Leukocyte	CIBERSORTx
+NK.cells.resting_SGL	NK.cell.resting	Leukocyte	SGL
+Natural.killer.T.cell.Innate_ssGSEA	NKT.cell	Leukocyte	ssGSEA
+NKT_xCell	NKT.cell	Leukocyte	xCell
+Osteoblast_xCell	Osteoblast	Osteoblast cells	xCell
+Pericytes_xCell	Pericytes	Stromal cells	xCell
+Plasma.cells_Cibersort	Plasma.cell	Leukocyte	Cibersort
+Plasma.cells_CIBERSORTx	Plasma.cell	Leukocyte	CIBERSORTx
+Plasma.cells_SGL	Plasma.cell	Leukocyte	SGL
+Plasma.cells_xCell	Plasma.cell	Leukocyte	xCell
+Platelets_xCell	Platelets	Leukocyte	xCell
+Preadipocytes_xCell	Preadipocytes	Stromal cells	xCell
+Sebocytes_xCell	Sebocytes	Sebocytes cells	xCell
+Skeletal.muscle_xCell	Skeletal.muscle	Stromal cells	xCell
+Smooth.muscle_xCell	Smooth.muscle	Stromal cells	xCell
+Activated.CD4.T.cell.Adaptive_ssGSEA	T.cell.CD4	Leukocyte	ssGSEA
+CD4_Tcells_EPIC-mRNA	T.cell.CD4	Leukocyte	EPIC-mRNA
+CD4..T.cells_xCell	T.cell.CD4	Leukocyte	xCell
+CD4.mature.Davoli_ssGSEA	T.cell.CD4	Leukocyte	ssGSEA
+T.cell.CD4._TIMER	T.cell.CD4	Leukocyte	TIMER
+T.cell.CD4...non.regulatory._quantiseq	T.cell.CD4	Leukocyte	quantiseq
+CD4..memory.T.cells_xCell	T.cell.CD4.memory	Leukocyte	xCell
+CD4..Tcm_xCell	T.cell.CD4.central.memory	Leukocyte	xCell
+CD4..Tem_xCell	T.cell.CD4.effector.memory	Leukocyte	xCell
+Central.memory.CD4.T.cell.Adaptive_ssGSEA	T.cell.CD4.central.memory	Leukocyte	ssGSEA
+Effector.memeory.CD4.T.cell.Adaptive_ssGSEA	T.cell.CD4.effector.memory	Leukocyte	ssGSEA
+T.cells.CD4.memory.activated_Cibersort	T.cell.CD4.memory.activated	Leukocyte	Cibersort
+T.cells.CD4.memory.activated_CIBERSORTx	T.cell.CD4.memory.activated	Leukocyte	CIBERSORTx
+T.cells.CD4.memory.activated_SGL	T.cell.CD4.memory.activated	Leukocyte	SGL
+T.cells.CD4.memory.resting_Cibersort	T.cell.CD4.memory.resting	Leukocyte	Cibersort
+T.cells.CD4.memory.resting_CIBERSORTx	T.cell.CD4.memory.resting	Leukocyte	CIBERSORTx
+T.cells.CD4.memory.resting_SGL	T.cell.CD4.memory.resting	Leukocyte	SGL
+CD4..naive.T.cells_xCell	T.cell.CD4.naive	Leukocyte	xCell
+T.cells.CD4.naive_Cibersort	T.cell.CD4.naive	Leukocyte	Cibersort
+T.cells.CD4.naive_CIBERSORTx	T.cell.CD4.naive	Leukocyte	CIBERSORTx
+T.cells.CD4.naive_SGL	T.cell.CD4.naive	Leukocyte	SGL
+Activated.CD8.T.cell.Adaptive_ssGSEA	T.cell.CD8	Leukocyte	ssGSEA
+CD8_Tcells_EPIC-mRNA	T.cell.CD8	Leukocyte	EPIC-mRNA
+CD8..T.cells_xCell	T.cell.CD8	Leukocyte	xCell
+CD8.T.cells_MCP	T.cell.CD8	Leukocyte	MCP
+CD8.T.cells.Danaher_ssGSEA	T.cell.CD8	Leukocyte	ssGSEA
+CD8.T.cells.Sanders_ssGSEA	T.cell.CD8	Leukocyte	ssGSEA
+T.cell.CD8._quantiseq	T.cell.CD8	Leukocyte	quantiseq
+T.cell.CD8._TIMER	T.cell.CD8	Leukocyte	TIMER
+T.cells.CD8_Cibersort	T.cell.CD8	Leukocyte	Cibersort
+T.cells.CD8_CIBERSORTx	T.cell.CD8	Leukocyte	CIBERSORTx
+T.cells.CD8_SGL	T.cell.CD8	Leukocyte	SGL
+CD8..Tcm_xCell	T.cell.CD8.central.memory	Leukocyte	xCell
+CD8..Tem_xCell	T.cell.CD8.effector.memory	Leukocyte	xCell
+CD8.effector.Davoli_ssGSEA	T.cell.CD8.effector.memory	Leukocyte	ssGSEA
+Central.memory.CD8.T.cell.Adaptive_ssGSEA	T.cell.CD8.central.memory	Leukocyte	ssGSEA
+Effector.memeory.CD8.T.cell.Adaptive_ssGSEA	T.cell.CD8.effector.memory	Leukocyte	ssGSEA
+CD8..naive.T.cells_xCell	T.cell.CD8.naive	Leukocyte	xCell
+Tcm.cells.Sanders_ssGSEA	T.cell.central.memory	Leukocyte	ssGSEA
+Tem.cells.Sanders_ssGSEA	T.cell.effector.memory	Leukocyte	ssGSEA
+T.cells.follicular.helper_Cibersort	T.cell.follicular.helper	Leukocyte	Cibersort
+T.cells.follicular.helper_CIBERSORTx	T.cell.follicular.helper	Leukocyte	CIBERSORTx
+T.cells.follicular.helper_SGL	T.cell.follicular.helper	Leukocyte	SGL
+T.follicular.helper.cell.Adaptive_ssGSEA	T.cell.follicular.helper	Leukocyte	ssGSEA
+Tfh.cells.Sanders_ssGSEA	T.cell.follicular.helper	Leukocyte	ssGSEA
+Gamma.delta.T.cell.Adaptive_ssGSEA	T.cell.gamma.delta	Leukocyte	ssGSEA
+T.cells.gamma.delta_Cibersort	T.cell.gamma.delta	Leukocyte	Cibersort
+T.cells.gamma.delta_CIBERSORTx	T.cell.gamma.delta	Leukocyte	CIBERSORTx
+T.cells.gamma.delta_SGL	T.cell.gamma.delta	Leukocyte	SGL
+Tgd.cells_xCell	T.cell.gamma.delta	Leukocyte	xCell
+Tgd.cells.Sanders_ssGSEA	T.cell.gamma.delta	Leukocyte	ssGSEA
+T.helper.cells.Sanders_ssGSEA	T.helper.cells	Leukocyte	ssGSEA
+Th1.cells_xCell	Th1.cells	Leukocyte	xCell
+Th1.cells.Danaher_ssGSEA	Th1.cells	Leukocyte	ssGSEA
+Th1.cells.Sanders_ssGSEA	Th1.cells	Leukocyte	ssGSEA
+Th17.cells.Sanders_ssGSEA	Th17.cells	Leukocyte	ssGSEA
+Th2.cells_xCell	Th2.cells	Leukocyte	xCell
+Th2.cells.Sanders_ssGSEA	Th2.cells	Leukocyte	ssGSEA
+Type.1.T.helper.cell.Adaptive_ssGSEA	Th1.cells	Leukocyte	ssGSEA
+Type.17.T.helper.cell.Adaptive_ssGSEA	Th17.cells	Leukocyte	ssGSEA
+Type.2.T.helper.cell.Adaptive_ssGSEA	Th2.cells	Leukocyte	ssGSEA
+Regulatory.T.cell.Adaptive_ssGSEA	T.cell.regulatory	Leukocyte	ssGSEA
+T.cell.regulatory..Tregs._quantiseq	T.cell.regulatory	Leukocyte	quantiseq
+T.cells.regulatory..Tregs._Cibersort	T.cell.regulatory	Leukocyte	Cibersort
+T.cells.regulatory..Tregs._CIBERSORTx	T.cell.regulatory	Leukocyte	CIBERSORTx
+T.cells.regulatory..Tregs._SGL	T.cell.regulatory	Leukocyte	SGL
+T.reg.Davoli_ssGSEA	T.cell.regulatory	Leukocyte	ssGSEA
+Treg.cells.Sanders_ssGSEA	T.cell.regulatory	Leukocyte	ssGSEA
+Treg.Danaher_ssGSEA	T.cell.regulatory	Leukocyte	ssGSEA
+Tregs_xCell	T.cell.regulatory	Leukocyte	xCell
+T.cells_MCP	T.cells	Leukocyte	MCP
+T.cells.Danaher_ssGSEA	T.cells	Leukocyte	ssGSEA
+T.cells.Sanders_ssGSEA	T.cells	Leukocyte	ssGSEA
+Exhausted.CD8.Danaher_ssGSEA	T.exhausted	Leukocyte	ssGSEA
+T.exhausted.TIDE_ssGSEA	T.exhausted	Leukocyte	ssGSEA
+T.exhausted.Late.stage.TIDE_ssGSEA	T.exhausted.Late.stage	Leukocyte	ssGSEA
+otherCells_EPIC-mRNA	uncharacterized.cell	other	EPIC-mRNA
+uncharacterized.cell_quantiseq	uncharacterized.cell	other	quantiseq
+WNT_beta_Catenin_Signaling.HALLMARK_ssGSEA	Wnt.b-catenin	Pathway	ssGSEA

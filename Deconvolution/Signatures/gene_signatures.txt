@@ -1,0 +1,2912 @@
+Genes	Celltypes	Source
+RPS5	Angiogenesis | negative	cancerSEA
+NPM1	Angiogenesis | negative	cancerSEA
+SLC25A5	Angiogenesis | negative	cancerSEA
+HSP90AA1	Angiogenesis | negative	cancerSEA
+EIF3I	Angiogenesis | negative	cancerSEA
+RPLP0	Angiogenesis | negative	cancerSEA
+RPL3	Angiogenesis | negative	cancerSEA
+RPS16	Angiogenesis | negative	cancerSEA
+RPS19	Angiogenesis | negative	cancerSEA
+RPS10	Angiogenesis | negative	cancerSEA
+RPS11	Angiogenesis | negative	cancerSEA
+ILF2	Angiogenesis | negative	cancerSEA
+RPS3	Angiogenesis | negative	cancerSEA
+RPSA	Angiogenesis | negative	cancerSEA
+RPS7	Angiogenesis | negative	cancerSEA
+RPS4X	Angiogenesis | negative	cancerSEA
+RPL10A	Angiogenesis | negative	cancerSEA
+RACK1	Angiogenesis | negative	cancerSEA
+RPS18	Angiogenesis | negative	cancerSEA
+RPL36A	Angiogenesis | negative	cancerSEA
+EEF1G	Angiogenesis | negative	cancerSEA
+RPL18	Angiogenesis | negative	cancerSEA
+NUCKS1	Angiogenesis | negative	cancerSEA
+FTL	Angiogenesis | negative	cancerSEA
+FBL	Angiogenesis | negative	cancerSEA
+LSM5	Angiogenesis | negative	cancerSEA
+RPS13	Angiogenesis | negative	cancerSEA
+RPS15	Angiogenesis | negative	cancerSEA
+CACYBP	Angiogenesis | negative	cancerSEA
+RPL21	Angiogenesis | negative	cancerSEA
+RPL5	Angiogenesis | negative	cancerSEA
+SNRPC	Angiogenesis | negative	cancerSEA
+SNRPB	Angiogenesis | negative	cancerSEA
+EIF2S3	Angiogenesis | negative	cancerSEA
+PPT1	Angiogenesis | negative	cancerSEA
+RPS15A	Angiogenesis | negative	cancerSEA
+RPS6	Angiogenesis | negative	cancerSEA
+RPL13A	Angiogenesis | negative	cancerSEA
+RPL11	Angiogenesis | negative	cancerSEA
+RPS8	Angiogenesis | negative	cancerSEA
+RPL32	Angiogenesis | negative	cancerSEA
+RPS3A	Angiogenesis | negative	cancerSEA
+RPL7A	Angiogenesis | negative	cancerSEA
+CCT5	Angiogenesis | negative	cancerSEA
+ATP5F1A	Angiogenesis | negative	cancerSEA
+RPL29	Angiogenesis | negative	cancerSEA
+RPS14	Angiogenesis | negative	cancerSEA
+CNBP	Angiogenesis | negative	cancerSEA
+PA2G4	Angiogenesis | negative	cancerSEA
+RPL4	Angiogenesis | negative	cancerSEA
+RPL15	Angiogenesis | negative	cancerSEA
+UBE2N	Angiogenesis | negative	cancerSEA
+SNRPE	Angiogenesis | negative	cancerSEA
+RPL14	Angiogenesis | negative	cancerSEA
+MRPL42	Angiogenesis | negative	cancerSEA
+RPL23A	Angiogenesis | negative	cancerSEA
+SERPINE1	Angiogenesis | positive	cancerSEA
+MT2A	Angiogenesis | positive	cancerSEA
+CTSB	Angiogenesis | positive	cancerSEA
+HLA-A	Angiogenesis | positive	cancerSEA
+CD74	Angiogenesis | positive	cancerSEA
+TYMP	Angiogenesis | positive	cancerSEA
+APLP2	Angiogenesis | positive	cancerSEA
+SAT1	Angiogenesis | positive	cancerSEA
+SH3BGRL3	Angiogenesis | positive	cancerSEA
+TPM4	Angiogenesis | positive	cancerSEA
+FLNA	Angiogenesis | positive	cancerSEA
+S100A6	Angiogenesis | positive	cancerSEA
+ITGA3	Angiogenesis | positive	cancerSEA
+VIM	Angiogenesis | positive	cancerSEA
+TMSB10	Angiogenesis | positive	cancerSEA
+PKM	Angiogenesis | positive	cancerSEA
+NRP1	Angiogenesis | positive	cancerSEA
+CST3	Angiogenesis | positive	cancerSEA
+TIMP1	Angiogenesis | positive	cancerSEA
+NDRG1	Angiogenesis | positive	cancerSEA
+FN1	Angiogenesis | positive	cancerSEA
+TGFBI	Angiogenesis | positive	cancerSEA
+NT5C3A	Angiogenesis | positive	cancerSEA
+LGALS3	Angiogenesis | positive	cancerSEA
+ITGB1	Angiogenesis | positive	cancerSEA
+IGFBP7	Angiogenesis | positive	cancerSEA
+ANGPTL4	Angiogenesis | positive	cancerSEA
+PLEC	Angiogenesis | positive	cancerSEA
+ANXA2	Angiogenesis | positive	cancerSEA
+S100A10	Angiogenesis | positive	cancerSEA
+TMSB4X	Angiogenesis | positive	cancerSEA
+CRIP1	Angiogenesis | positive	cancerSEA
+HLA-B	Angiogenesis | positive	cancerSEA
+VIM	EMT | positive	cancerSEA
+FN1	EMT | positive	cancerSEA
+S100A10	EMT | positive	cancerSEA
+ACTB	EMT | positive	cancerSEA
+CTSB	EMT | positive	cancerSEA
+TIMP1	EMT | positive	cancerSEA
+ANXA2	EMT | positive	cancerSEA
+S100A6	EMT | positive	cancerSEA
+TNC	EMT | positive	cancerSEA
+PKM	EMT | positive	cancerSEA
+LGALS1	EMT | positive	cancerSEA
+SPARC	EMT | positive	cancerSEA
+TUBA1B	EMT | positive	cancerSEA
+MT2A	EMT | positive	cancerSEA
+COL1A2	EMT | positive	cancerSEA
+CD99	EMT | positive	cancerSEA
+PLAUR	EMT | positive	cancerSEA
+TMSB10	EMT | positive	cancerSEA
+CD59	EMT | positive	cancerSEA
+CST3	EMT | positive	cancerSEA
+TGFBI	EMT | positive	cancerSEA
+CLU	EMT | positive	cancerSEA
+CALU	EMT | positive	cancerSEA
+LOXL2	EMT | positive	cancerSEA
+SH3BGRL3	EMT | positive	cancerSEA
+ITGB1	EMT | positive	cancerSEA
+S100A11	EMT | positive	cancerSEA
+ANXA5	EMT | positive	cancerSEA
+TPM4	EMT | positive	cancerSEA
+CAVIN1	EMT | positive	cancerSEA
+PLEC	EMT | positive	cancerSEA
+NEDD4	EMT | negative	cancerSEA
+MAPK10	EMT | negative	cancerSEA
+RPS8	EMT | negative	cancerSEA
+RPL37	EMT | negative	cancerSEA
+C12orf50	EMT | negative	cancerSEA
+SSTR2	EMT | negative	cancerSEA
+OR5AS1	EMT | negative	cancerSEA
+GDF5OS	EMT | negative	cancerSEA
+FOS	Hypoxia | positive	cancerSEA
+DDIT4	Hypoxia | positive	cancerSEA
+NDRG1	Hypoxia | positive	cancerSEA
+PGK1	Hypoxia | positive	cancerSEA
+KLF6	Hypoxia | positive	cancerSEA
+GAPDH	Hypoxia | positive	cancerSEA
+ENO2	Hypoxia | positive	cancerSEA
+VEGFA	Hypoxia | positive	cancerSEA
+DUSP1	Hypoxia | positive	cancerSEA
+LDHA	Hypoxia | positive	cancerSEA
+CTSB	Hypoxia | positive	cancerSEA
+PKM	Hypoxia | positive	cancerSEA
+SLC2A1	Hypoxia | positive	cancerSEA
+HILPDA	Hypoxia | positive	cancerSEA
+ADM	Hypoxia | positive	cancerSEA
+BNIP3	Hypoxia | positive	cancerSEA
+ANXA2	Hypoxia | positive	cancerSEA
+MT1X	Hypoxia | positive	cancerSEA
+VIM	Hypoxia | positive	cancerSEA
+TMSB10	Hypoxia | positive	cancerSEA
+ENO1	Hypoxia | positive	cancerSEA
+ACTB	Hypoxia | positive	cancerSEA
+MYL6	Hypoxia | positive	cancerSEA
+TPI1	Hypoxia | positive	cancerSEA
+SAT1	Hypoxia | positive	cancerSEA
+LGALS3	Hypoxia | positive	cancerSEA
+DNAJB1	Hypoxia | positive	cancerSEA
+PAM	Hypoxia | positive	cancerSEA
+ANGPTL4	Hypoxia | positive	cancerSEA
+JUNB	Hypoxia | positive	cancerSEA
+EIF1	Hypoxia | positive	cancerSEA
+JUN	Hypoxia | positive	cancerSEA
+S100A10	Hypoxia | positive	cancerSEA
+ERO1A	Hypoxia | positive	cancerSEA
+FTL	Hypoxia | positive	cancerSEA
+CST3	Hypoxia | positive	cancerSEA
+BNIP3L	Hypoxia | positive	cancerSEA
+CAV1	Hypoxia | positive	cancerSEA
+LOX	Hypoxia | positive	cancerSEA
+ARRDC3	Hypoxia | positive	cancerSEA
+HPCAL1	Hypoxia | positive	cancerSEA
+EGR1	Hypoxia | positive	cancerSEA
+CLU	Hypoxia | positive	cancerSEA
+P4HA1	Hypoxia | positive	cancerSEA
+MT2A	Hypoxia | positive	cancerSEA
+EGLN3	Hypoxia | positive	cancerSEA
+BHLHE40	Hypoxia | positive	cancerSEA
+UBC	Hypoxia | positive	cancerSEA
+C4orf3	Hypoxia | positive	cancerSEA
+FTH1	Hypoxia | positive	cancerSEA
+PFKFB3	Hypoxia | positive	cancerSEA
+MIF	Hypoxia | positive	cancerSEA
+CD99	Hypoxia | positive	cancerSEA
+PLAUR	Hypoxia | positive	cancerSEA
+TNC	Hypoxia | positive	cancerSEA
+SLC2A3	Hypoxia | positive	cancerSEA
+SPAG4	Hypoxia | positive	cancerSEA
+PLOD1	Hypoxia | positive	cancerSEA
+APLP2	Hypoxia | positive	cancerSEA
+GADD45B	Hypoxia | positive	cancerSEA
+APOL1	Hypoxia | positive	cancerSEA
+HIF1A	Hypoxia | positive	cancerSEA
+NFKBIA	Hypoxia | positive	cancerSEA
+SLCO4A1	Hypoxia | positive	cancerSEA
+RIOK3	Hypoxia | positive	cancerSEA
+GPI	Hypoxia | positive	cancerSEA
+NAMPT	Hypoxia | positive	cancerSEA
+HSPB1	Hypoxia | positive	cancerSEA
+SERPINE1	Hypoxia | positive	cancerSEA
+CA9	Hypoxia | positive	cancerSEA
+WSB1	Hypoxia | positive	cancerSEA
+KRT18	Hypoxia | positive	cancerSEA
+FAM162A	Hypoxia | positive	cancerSEA
+ERRFI1	Hypoxia | positive	cancerSEA
+F3	Hypoxia | positive	cancerSEA
+MXI1	Hypoxia | positive	cancerSEA
+FKBP9	Hypoxia | positive	cancerSEA
+FOSB	Hypoxia | positive	cancerSEA
+ZFP36	Hypoxia | positive	cancerSEA
+JUND	Hypoxia | positive	cancerSEA
+SLC38A2	Hypoxia | positive	cancerSEA
+GLUL	Hypoxia | positive	cancerSEA
+TMBIM1	Hypoxia | positive	cancerSEA
+RHOB	Hypoxia | positive	cancerSEA
+OCIAD2	Hypoxia | positive	cancerSEA
+IGFBP3	Hypoxia | positive	cancerSEA
+RSU1	Hypoxia | positive	cancerSEA
+PDK1	Hypoxia | positive	cancerSEA
+HK2	Hypoxia | positive	cancerSEA
+IER2	Hypoxia | positive	cancerSEA
+PDZK1IP1	Hypoxia | positive	cancerSEA
+AK4	Hypoxia | positive	cancerSEA
+DYNLT3	Hypoxia | positive	cancerSEA
+B2M	Hypoxia | positive	cancerSEA
+TPM4	Hypoxia | positive	cancerSEA
+ACTG1	Hypoxia | positive	cancerSEA
+MAFF	Hypoxia | positive	cancerSEA
+LAMB3	Hypoxia | positive	cancerSEA
+PSAP	Hypoxia | positive	cancerSEA
+HLA-E	Hypoxia | positive	cancerSEA
+CLIC1	Hypoxia | positive	cancerSEA
+SNRPF	Hypoxia | negative	cancerSEA
+RPS27A	Hypoxia | negative	cancerSEA
+HSP90AB1	Hypoxia | negative	cancerSEA
+SRSF3	Hypoxia | negative	cancerSEA
+HSPD1	Hypoxia | negative	cancerSEA
+CCT6A	Hypoxia | negative	cancerSEA
+CCT5	Hypoxia | negative	cancerSEA
+SRSF2	Hypoxia | negative	cancerSEA
+CCT3	Hypoxia | negative	cancerSEA
+NMNAT3	Hypoxia | negative	cancerSEA
+HMGB1	Hypoxia | negative	cancerSEA
+NFKBIA	Inflammation | positive	cancerSEA
+JUNB	Inflammation | positive	cancerSEA
+MT2A	Inflammation | positive	cancerSEA
+S100A6	Inflammation | positive	cancerSEA
+PLAUR	Inflammation | positive	cancerSEA
+CD74	Inflammation | positive	cancerSEA
+PPP1R15A	Inflammation | positive	cancerSEA
+EGR1	Inflammation | positive	cancerSEA
+SDC4	Inflammation | positive	cancerSEA
+CXCL8	Inflammation | positive	cancerSEA
+FTL	Inflammation | positive	cancerSEA
+NAMPT	Inflammation | positive	cancerSEA
+SERPINE1	Inflammation | positive	cancerSEA
+ZFP36	Inflammation | positive	cancerSEA
+SAT1	Inflammation | positive	cancerSEA
+IER3	Inflammation | positive	cancerSEA
+IER2	Inflammation | positive	cancerSEA
+SQSTM1	Inflammation | positive	cancerSEA
+ATF3	Inflammation | positive	cancerSEA
+CTSB	Inflammation | positive	cancerSEA
+HLA-A	Inflammation | positive	cancerSEA
+CCL5	Inflammation | positive	cancerSEA
+IL32	Inflammation | positive	cancerSEA
+TYMP	Inflammation | positive	cancerSEA
+VIM	Inflammation | positive	cancerSEA
+MAP2K3	Inflammation | positive	cancerSEA
+KLF6	Inflammation | positive	cancerSEA
+ICAM1	Inflammation | positive	cancerSEA
+TNFAIP3	Inflammation | positive	cancerSEA
+NR4A1	Inflammation | positive	cancerSEA
+JUND	Inflammation | positive	cancerSEA
+THBS1	Inflammation | positive	cancerSEA
+BTG2	Inflammation | positive	cancerSEA
+CXCL1	Inflammation | positive	cancerSEA
+FOS	Inflammation | positive	cancerSEA
+MAFF	Inflammation | positive	cancerSEA
+TNFAIP2	Inflammation | positive	cancerSEA
+ZFP36L1	Inflammation | positive	cancerSEA
+TMSB4X	Inflammation | positive	cancerSEA
+CFLAR	Inflammation | positive	cancerSEA
+GPRC5A	Inflammation | positive	cancerSEA
+DAPP1	Inflammation | positive	cancerSEA
+ACTN1	Inflammation | positive	cancerSEA
+CXCL2	Inflammation | positive	cancerSEA
+APLP2	Inflammation | positive	cancerSEA
+B4GALT1	Inflammation | positive	cancerSEA
+LYZ	Inflammation | positive	cancerSEA
+CST3	Inflammation | positive	cancerSEA
+COTL1	Inflammation | positive	cancerSEA
+PON2	Inflammation | positive	cancerSEA
+NCOA7	Inflammation | positive	cancerSEA
+CCL20	Inflammation | positive	cancerSEA
+OPTN	Inflammation | positive	cancerSEA
+IRF1	Inflammation | positive	cancerSEA
+FOSB	Inflammation | positive	cancerSEA
+RAC2	Inflammation | positive	cancerSEA
+ANXA1	Inflammation | positive	cancerSEA
+GLUL	Inflammation | positive	cancerSEA
+MCL1	Inflammation | positive	cancerSEA
+RHOB	Inflammation | positive	cancerSEA
+OSMR	Inflammation | positive	cancerSEA
+TNIP1	Inflammation | positive	cancerSEA
+SLC25A37	Inflammation | positive	cancerSEA
+RHOC	Inflammation | positive	cancerSEA
+TPM4	Inflammation | positive	cancerSEA
+FTH1	Inflammation | positive	cancerSEA
+CEBPB	Inflammation | positive	cancerSEA
+SAA1	Inflammation | positive	cancerSEA
+JUN	Inflammation | positive	cancerSEA
+PHLDA2	Inflammation | positive	cancerSEA
+IFITM2	Inflammation | positive	cancerSEA
+LITAF	Inflammation | positive	cancerSEA
+HLA-DQA1	Inflammation | positive	cancerSEA
+S100A10	Inflammation | positive	cancerSEA
+HLA-C	Inflammation | positive	cancerSEA
+HLA-B	Inflammation | positive	cancerSEA
+RPSA	Inflammation | negative	cancerSEA
+NPM1	Inflammation | negative	cancerSEA
+RPS5	Inflammation | negative	cancerSEA
+RPLP0	Inflammation | negative	cancerSEA
+SUB1	Inflammation | negative	cancerSEA
+RPS3	Inflammation | negative	cancerSEA
+HMGB1	Inflammation | negative	cancerSEA
+SLC25A5	Inflammation | negative	cancerSEA
+GGCT	Inflammation | negative	cancerSEA
+PEBP1	Inflammation | negative	cancerSEA
+STMN1	Inflammation | negative	cancerSEA
+TMPO	Inflammation | negative	cancerSEA
+RPL21	Inflammation | negative	cancerSEA
+RPL5	Inflammation | negative	cancerSEA
+RPS10	Inflammation | negative	cancerSEA
+SNRPD2	Inflammation | negative	cancerSEA
+RAN	Inflammation | negative	cancerSEA
+HNRNPA1	Inflammation | negative	cancerSEA
+ATP6V1G1	Inflammation | negative	cancerSEA
+RPL35	Inflammation | negative	cancerSEA
+SNRPF	Inflammation | negative	cancerSEA
+RPS2	Inflammation | negative	cancerSEA
+RPS8	Inflammation | negative	cancerSEA
+RBMX	Inflammation | negative	cancerSEA
+RPL7	Inflammation | negative	cancerSEA
+RPL7A	Inflammation | negative	cancerSEA
+ATP5PF	Inflammation | negative	cancerSEA
+H3F3A	Inflammation | negative	cancerSEA
+H2AFZ	Inflammation | negative	cancerSEA
+PTTG1	Inflammation | negative	cancerSEA
+MINOS1	Inflammation | negative	cancerSEA
+TUBB	Inflammation | negative	cancerSEA
+HIST1H4C	Inflammation | negative	cancerSEA
+RPS4X	Inflammation | negative	cancerSEA
+HMGN2	Inflammation | negative	cancerSEA
+NUCKS1	Inflammation | negative	cancerSEA
+HLTF	Inflammation | negative	cancerSEA
+SMC1A	Inflammation | negative	cancerSEA
+UBE2T	Inflammation | negative	cancerSEA
+LYRM2	Inflammation | negative	cancerSEA
+PSMA7	Inflammation | negative	cancerSEA
+RPS19	Inflammation | negative	cancerSEA
+RPL18A	Inflammation | negative	cancerSEA
+SMC3	Inflammation | negative	cancerSEA
+YWHAE	Inflammation | negative	cancerSEA
+COX6A1	Inflammation | negative	cancerSEA
+RPS12	Inflammation | negative	cancerSEA
+EEF1B2	Inflammation | negative	cancerSEA
+RPS15	Inflammation | negative	cancerSEA
+CACYBP	Inflammation | negative	cancerSEA
+HMGN3	Inflammation | negative	cancerSEA
+SET	Inflammation | negative	cancerSEA
+UBA2	Inflammation | negative	cancerSEA
+TOP2A	Inflammation | negative	cancerSEA
+PCNA	Inflammation | negative	cancerSEA
+NASP	Inflammation | negative	cancerSEA
+YWHAQ	Inflammation | negative	cancerSEA
+TIMM17A	Inflammation | negative	cancerSEA
+RPS6	Inflammation | negative	cancerSEA
+RPS11	Inflammation | negative	cancerSEA
+RPL11	Inflammation | negative	cancerSEA
+PHIP	Inflammation | negative	cancerSEA
+TMEM209	Inflammation | negative	cancerSEA
+NDUFC2	Inflammation | negative	cancerSEA
+ATP5F1A	Inflammation | negative	cancerSEA
+CCT8	Inflammation | negative	cancerSEA
+RPL29	Inflammation | negative	cancerSEA
+CCT3	Inflammation | negative	cancerSEA
+HMGB2	Inflammation | negative	cancerSEA
+NDUFB8	Inflammation | negative	cancerSEA
+PRDX2	Inflammation | negative	cancerSEA
+LSM3	Inflammation | negative	cancerSEA
+CKS1B	Inflammation | negative	cancerSEA
+RPL4	Inflammation | negative	cancerSEA
+COX8A	Inflammation | negative	cancerSEA
+RPLP2	Inflammation | negative	cancerSEA
+SNRPE	Inflammation | negative	cancerSEA
+CMSS1	Inflammation | negative	cancerSEA
+NDUFA12	Inflammation | negative	cancerSEA
+PTMA	Inflammation | negative	cancerSEA
+SRSF10	Inflammation | negative	cancerSEA
+SUMO2	Inflammation | negative	cancerSEA
+RPL37A	Inflammation | negative	cancerSEA
+RPL12	Inflammation | negative	cancerSEA
+MRPL42	Inflammation | negative	cancerSEA
+VDAC1	Inflammation | negative	cancerSEA
+RPS18	Inflammation | negative	cancerSEA
+ADAM28	Activated B cell	Adaptive
+CD180	Activated B cell	Adaptive
+CD79B	Activated B cell	Adaptive
+BLK	Activated B cell	Adaptive
+CD19	Activated B cell	Adaptive
+MS4A1	Activated B cell	Adaptive
+TNFRSF17	Activated B cell	Adaptive
+IGHM	Activated B cell	Adaptive
+GNG7	Activated B cell	Adaptive
+MICAL3	Activated B cell	Adaptive
+SPIB	Activated B cell	Adaptive
+HLA-DOB	Activated B cell	Adaptive
+IGKC	Activated B cell	Adaptive
+PNOC	Activated B cell	Adaptive
+FCRL2	Activated B cell	Adaptive
+BACH2	Activated B cell	Adaptive
+CR2	Activated B cell	Adaptive
+TCL1A	Activated B cell	Adaptive
+AKNA	Activated B cell	Adaptive
+ARHGAP25	Activated B cell	Adaptive
+CCL21	Activated B cell	Adaptive
+CD27	Activated B cell	Adaptive
+CD38	Activated B cell	Adaptive
+CLEC17A	Activated B cell	Adaptive
+CLEC9A	Activated B cell	Adaptive
+CLECL1	Activated B cell	Adaptive
+AIM2	Activated CD4 T cell	Adaptive
+BIRC3	Activated CD4 T cell	Adaptive
+BRIP1	Activated CD4 T cell	Adaptive
+CCL20	Activated CD4 T cell	Adaptive
+CCL4	Activated CD4 T cell	Adaptive
+CCL5	Activated CD4 T cell	Adaptive
+CCNB1	Activated CD4 T cell	Adaptive
+CCR7	Activated CD4 T cell	Adaptive
+DUSP2	Activated CD4 T cell	Adaptive
+ESCO2	Activated CD4 T cell	Adaptive
+ETS1	Activated CD4 T cell	Adaptive
+EXO1	Activated CD4 T cell	Adaptive
+EXOC6	Activated CD4 T cell	Adaptive
+IARS	Activated CD4 T cell	Adaptive
+ITK	Activated CD4 T cell	Adaptive
+KIF11	Activated CD4 T cell	Adaptive
+KNTC1	Activated CD4 T cell	Adaptive
+NUF2	Activated CD4 T cell	Adaptive
+PRC1	Activated CD4 T cell	Adaptive
+PSAT1	Activated CD4 T cell	Adaptive
+RGS1	Activated CD4 T cell	Adaptive
+RTKN2	Activated CD4 T cell	Adaptive
+SAMSN1	Activated CD4 T cell	Adaptive
+SELL	Activated CD4 T cell	Adaptive
+TRAT1	Activated CD4 T cell	Adaptive
+ADRM1	Activated CD8 T cell	Adaptive
+AHSA1	Activated CD8 T cell	Adaptive
+C1GALT1C1	Activated CD8 T cell	Adaptive
+CCT6B	Activated CD8 T cell	Adaptive
+CD37	Activated CD8 T cell	Adaptive
+CD3D	Activated CD8 T cell	Adaptive
+CD3E	Activated CD8 T cell	Adaptive
+CD3G	Activated CD8 T cell	Adaptive
+CD69	Activated CD8 T cell	Adaptive
+CD8A	Activated CD8 T cell	Adaptive
+CETN3	Activated CD8 T cell	Adaptive
+CSE1L	Activated CD8 T cell	Adaptive
+GEMIN6	Activated CD8 T cell	Adaptive
+GNLY	Activated CD8 T cell	Adaptive
+GPT2	Activated CD8 T cell	Adaptive
+GZMA	Activated CD8 T cell	Adaptive
+GZMH	Activated CD8 T cell	Adaptive
+GZMK	Activated CD8 T cell	Adaptive
+IL2RB	Activated CD8 T cell	Adaptive
+LCK	Activated CD8 T cell	Adaptive
+MPZL1	Activated CD8 T cell	Adaptive
+NKG7	Activated CD8 T cell	Adaptive
+PIK3IP1	Activated CD8 T cell	Adaptive
+PTRH2	Activated CD8 T cell	Adaptive
+TIMM13	Activated CD8 T cell	Adaptive
+ZAP70	Activated CD8 T cell	Adaptive
+ABHD3	Central memory CD4 T cell	Adaptive
+AHNAK	Central memory CD4 T cell	Adaptive
+ANXA2P2	Central memory CD4 T cell	Adaptive
+AQP3	Central memory CD4 T cell	Adaptive
+ATHL1	Central memory CD4 T cell	Adaptive
+BMI1	Central memory CD4 T cell	Adaptive
+BZW2	Central memory CD4 T cell	Adaptive
+CD63	Central memory CD4 T cell	Adaptive
+COL4A1	Central memory CD4 T cell	Adaptive
+CYLD	Central memory CD4 T cell	Adaptive
+ELMO2	Central memory CD4 T cell	Adaptive
+FYN	Central memory CD4 T cell	Adaptive
+GLIPR1	Central memory CD4 T cell	Adaptive
+GSS	Central memory CD4 T cell	Adaptive
+IFITM2	Central memory CD4 T cell	Adaptive
+ITGB1	Central memory CD4 T cell	Adaptive
+ITGB2	Central memory CD4 T cell	Adaptive
+KLF5	Central memory CD4 T cell	Adaptive
+LSP1	Central memory CD4 T cell	Adaptive
+NDUFB9	Central memory CD4 T cell	Adaptive
+PKM2	Central memory CD4 T cell	Adaptive
+SFXN3	Central memory CD4 T cell	Adaptive
+SIRPG	Central memory CD4 T cell	Adaptive
+SMAD4	Central memory CD4 T cell	Adaptive
+STX4	Central memory CD4 T cell	Adaptive
+TRADD	Central memory CD4 T cell	Adaptive
+VIM	Central memory CD4 T cell	Adaptive
+XRCC6	Central memory CD4 T cell	Adaptive
+ACTN4	Central memory CD8 T cell	Adaptive
+ADAM12	Central memory CD8 T cell	Adaptive
+ADCY9	Central memory CD8 T cell	Adaptive
+F13A1	Central memory CD8 T cell	Adaptive
+FCER1G	Central memory CD8 T cell	Adaptive
+FCGR3B	Central memory CD8 T cell	Adaptive
+FGF7	Central memory CD8 T cell	Adaptive
+FKBP4	Central memory CD8 T cell	Adaptive
+GLUD1	Central memory CD8 T cell	Adaptive
+GM2A	Central memory CD8 T cell	Adaptive
+GUSB	Central memory CD8 T cell	Adaptive
+IL1RN	Central memory CD8 T cell	Adaptive
+NOL11	Central memory CD8 T cell	Adaptive
+NTRK1	Central memory CD8 T cell	Adaptive
+RARA	Central memory CD8 T cell	Adaptive
+RNF128	Central memory CD8 T cell	Adaptive
+SIGLEC1	Central memory CD8 T cell	Adaptive
+TNFRSF11A	Central memory CD8 T cell	Adaptive
+TOX4	Central memory CD8 T cell	Adaptive
+UBA52	Central memory CD8 T cell	Adaptive
+ULBP1	Central memory CD8 T cell	Adaptive
+ATM	Effector memeory CD4 T cell	Adaptive
+CASP3	Effector memeory CD4 T cell	Adaptive
+CASQ1	Effector memeory CD4 T cell	Adaptive
+CD300E	Effector memeory CD4 T cell	Adaptive
+DARS	Effector memeory CD4 T cell	Adaptive
+DOCK9	Effector memeory CD4 T cell	Adaptive
+EXOSC9	Effector memeory CD4 T cell	Adaptive
+EZH2	Effector memeory CD4 T cell	Adaptive
+GDE1	Effector memeory CD4 T cell	Adaptive
+IL34	Effector memeory CD4 T cell	Adaptive
+NCOA4	Effector memeory CD4 T cell	Adaptive
+NEFL	Effector memeory CD4 T cell	Adaptive
+PDGFRL	Effector memeory CD4 T cell	Adaptive
+PTGS1	Effector memeory CD4 T cell	Adaptive
+REPS1	Effector memeory CD4 T cell	Adaptive
+SCG2	Effector memeory CD4 T cell	Adaptive
+SDPR	Effector memeory CD4 T cell	Adaptive
+SIGLEC14	Effector memeory CD4 T cell	Adaptive
+SIGLEC6	Effector memeory CD4 T cell	Adaptive
+TAL1	Effector memeory CD4 T cell	Adaptive
+TFEC	Effector memeory CD4 T cell	Adaptive
+TIPIN	Effector memeory CD4 T cell	Adaptive
+TPK1	Effector memeory CD4 T cell	Adaptive
+UQCRB	Effector memeory CD4 T cell	Adaptive
+USP9Y	Effector memeory CD4 T cell	Adaptive
+WIPF1	Effector memeory CD4 T cell	Adaptive
+ZCRB1	Effector memeory CD4 T cell	Adaptive
+ACAP1	Effector memeory CD8 T cell	Adaptive
+APOL3	Effector memeory CD8 T cell	Adaptive
+ARHGAP10	Effector memeory CD8 T cell	Adaptive
+ATP10D	Effector memeory CD8 T cell	Adaptive
+C3AR1	Effector memeory CD8 T cell	Adaptive
+CCR5	Effector memeory CD8 T cell	Adaptive
+CD160	Effector memeory CD8 T cell	Adaptive
+CD55	Effector memeory CD8 T cell	Adaptive
+CFLAR	Effector memeory CD8 T cell	Adaptive
+CMKLR1	Effector memeory CD8 T cell	Adaptive
+DAPP1	Effector memeory CD8 T cell	Adaptive
+FCRL6	Effector memeory CD8 T cell	Adaptive
+FLT3LG	Effector memeory CD8 T cell	Adaptive
+GZMM	Effector memeory CD8 T cell	Adaptive
+HAPLN3	Effector memeory CD8 T cell	Adaptive
+HLA-DMB	Effector memeory CD8 T cell	Adaptive
+HLA-DPA1	Effector memeory CD8 T cell	Adaptive
+HLA-DPB1	Effector memeory CD8 T cell	Adaptive
+IFI16	Effector memeory CD8 T cell	Adaptive
+LIME1	Effector memeory CD8 T cell	Adaptive
+LTK	Effector memeory CD8 T cell	Adaptive
+NFKBIA	Effector memeory CD8 T cell	Adaptive
+SETD7	Effector memeory CD8 T cell	Adaptive
+SIK1	Effector memeory CD8 T cell	Adaptive
+TRIB2	Effector memeory CD8 T cell	Adaptive
+ACP5	Gamma delta T cell	Adaptive
+AQP9	Gamma delta T cell	Adaptive
+BTN3A2	Gamma delta T cell	Adaptive
+C1orf54	Gamma delta T cell	Adaptive
+CARD8	Gamma delta T cell	Adaptive
+CCL18	Gamma delta T cell	Adaptive
+CD209	Gamma delta T cell	Adaptive
+CD33	Gamma delta T cell	Adaptive
+CD36	Gamma delta T cell	Adaptive
+CDK5	Gamma delta T cell	Adaptive
+IL10RB	Gamma delta T cell	Adaptive
+KLRF1	Gamma delta T cell	Adaptive
+LGALS1	Gamma delta T cell	Adaptive
+MAPK7	Gamma delta T cell	Adaptive
+KLHL7	Gamma delta T cell	Adaptive
+KRT80	Gamma delta T cell	Adaptive
+LAMC1	Gamma delta T cell	Adaptive
+LCORL	Gamma delta T cell	Adaptive
+LMNB1	Gamma delta T cell	Adaptive
+MEIS3P1	Gamma delta T cell	Adaptive
+MPL	Gamma delta T cell	Adaptive
+FABP1	Gamma delta T cell	Adaptive
+FABP5	Gamma delta T cell	Adaptive
+FADD	Gamma delta T cell	Adaptive
+MFAP3L	Gamma delta T cell	Adaptive
+MINPP1	Gamma delta T cell	Adaptive
+RPS24	Gamma delta T cell	Adaptive
+RPS7	Gamma delta T cell	Adaptive
+RPS9	Gamma delta T cell	Adaptive
+DBNL	Gamma delta T cell	Adaptive
+CCL13	Gamma delta T cell	Adaptive
+CD22	Immature  B cell	Adaptive
+CYBB	Immature  B cell	Adaptive
+FAM129C	Immature  B cell	Adaptive
+FCRL1	Immature  B cell	Adaptive
+FCRL3	Immature  B cell	Adaptive
+FCRL5	Immature  B cell	Adaptive
+FCRLA	Immature  B cell	Adaptive
+HDAC9	Immature  B cell	Adaptive
+HLA-DQA1	Immature  B cell	Adaptive
+HVCN1	Immature  B cell	Adaptive
+KIAA0226	Immature  B cell	Adaptive
+NCF1	Immature  B cell	Adaptive
+NCF1B	Immature  B cell	Adaptive
+P2RY10	Immature  B cell	Adaptive
+SP100	Immature  B cell	Adaptive
+TXNIP	Immature  B cell	Adaptive
+STAP1	Immature  B cell	Adaptive
+TAGAP	Immature  B cell	Adaptive
+ZCCHC2	Immature  B cell	Adaptive
+AICDA	Memory B cell	Adaptive
+CCNA2	Memory B cell	Adaptive
+CDKN3	Memory B cell	Adaptive
+CLCN5	Memory B cell	Adaptive
+ENPP1	Memory B cell	Adaptive
+FCER1A	Memory B cell	Adaptive
+FCRL4	Memory B cell	Adaptive
+MYC	Memory B cell	Adaptive
+RUNX2	Memory B cell	Adaptive
+SORL1	Memory B cell	Adaptive
+SOX5	Memory B cell	Adaptive
+STAT5A	Memory B cell	Adaptive
+STAT5B	Memory B cell	Adaptive
+TLR9	Memory B cell	Adaptive
+CCL3L1	Regulatory T cell	Adaptive
+CD72	Regulatory T cell	Adaptive
+CLEC5A	Regulatory T cell	Adaptive
+FOXP3	Regulatory T cell	Adaptive
+ITGA4	Regulatory T cell	Adaptive
+L1CAM	Regulatory T cell	Adaptive
+LIPA	Regulatory T cell	Adaptive
+LRP1	Regulatory T cell	Adaptive
+LRRC42	Regulatory T cell	Adaptive
+MARCO	Regulatory T cell	Adaptive
+MMP12	Regulatory T cell	Adaptive
+MNDA	Regulatory T cell	Adaptive
+MRC1	Regulatory T cell	Adaptive
+MS4A6A	Regulatory T cell	Adaptive
+PELO	Regulatory T cell	Adaptive
+PLEK	Regulatory T cell	Adaptive
+PRSS23	Regulatory T cell	Adaptive
+PTGIR	Regulatory T cell	Adaptive
+ST8SIA4	Regulatory T cell	Adaptive
+STAB1	Regulatory T cell	Adaptive
+B3GAT1	T follicular helper cell	Adaptive
+CDK5R1	T follicular helper cell	Adaptive
+PDCD1	T follicular helper cell	Adaptive
+BCL6	T follicular helper cell	Adaptive
+CD200	T follicular helper cell	Adaptive
+CD83	T follicular helper cell	Adaptive
+CD84	T follicular helper cell	Adaptive
+FGF2	T follicular helper cell	Adaptive
+GPR18	T follicular helper cell	Adaptive
+CEBPA	T follicular helper cell	Adaptive
+CECR1	T follicular helper cell	Adaptive
+CLEC10A	T follicular helper cell	Adaptive
+CLEC4A	T follicular helper cell	Adaptive
+CSF1R	T follicular helper cell	Adaptive
+CTSS	T follicular helper cell	Adaptive
+DMN	T follicular helper cell	Adaptive
+DPP4	T follicular helper cell	Adaptive
+LRRC32	T follicular helper cell	Adaptive
+MC5R	T follicular helper cell	Adaptive
+MICA	T follicular helper cell	Adaptive
+NCAM1	T follicular helper cell	Adaptive
+NCR2	T follicular helper cell	Adaptive
+NRP1	T follicular helper cell	Adaptive
+PDCD1LG2	T follicular helper cell	Adaptive
+PDCD6	T follicular helper cell	Adaptive
+PRDX1	T follicular helper cell	Adaptive
+RAE1	T follicular helper cell	Adaptive
+RAET1E	T follicular helper cell	Adaptive
+SIGLEC7	T follicular helper cell	Adaptive
+SIGLEC9	T follicular helper cell	Adaptive
+TYRO3	T follicular helper cell	Adaptive
+CHST12	T follicular helper cell	Adaptive
+CLIC3	T follicular helper cell	Adaptive
+IVNS1ABP	T follicular helper cell	Adaptive
+KIR2DL2	T follicular helper cell	Adaptive
+LGMN	T follicular helper cell	Adaptive
+CD70	Type 1 T helper cell	Adaptive
+TBX21	Type 1 T helper cell	Adaptive
+ADAM8	Type 1 T helper cell	Adaptive
+AHCYL2	Type 1 T helper cell	Adaptive
+ALCAM	Type 1 T helper cell	Adaptive
+B3GALNT1	Type 1 T helper cell	Adaptive
+BBS12	Type 1 T helper cell	Adaptive
+BST1	Type 1 T helper cell	Adaptive
+CD151	Type 1 T helper cell	Adaptive
+CD47	Type 1 T helper cell	Adaptive
+CD48	Type 1 T helper cell	Adaptive
+CD52	Type 1 T helper cell	Adaptive
+CD53	Type 1 T helper cell	Adaptive
+CD59	Type 1 T helper cell	Adaptive
+CD6	Type 1 T helper cell	Adaptive
+CD68	Type 1 T helper cell	Adaptive
+CD7	Type 1 T helper cell	Adaptive
+CD96	Type 1 T helper cell	Adaptive
+CFHR3	Type 1 T helper cell	Adaptive
+CHRM3	Type 1 T helper cell	Adaptive
+CLEC7A	Type 1 T helper cell	Adaptive
+COL23A1	Type 1 T helper cell	Adaptive
+COL4A4	Type 1 T helper cell	Adaptive
+COL5A3	Type 1 T helper cell	Adaptive
+DAB1	Type 1 T helper cell	Adaptive
+DLEU7	Type 1 T helper cell	Adaptive
+DOC2B	Type 1 T helper cell	Adaptive
+EMP1	Type 1 T helper cell	Adaptive
+F12	Type 1 T helper cell	Adaptive
+FURIN	Type 1 T helper cell	Adaptive
+GAB3	Type 1 T helper cell	Adaptive
+GATM	Type 1 T helper cell	Adaptive
+GFPT2	Type 1 T helper cell	Adaptive
+GPR25	Type 1 T helper cell	Adaptive
+GREM2	Type 1 T helper cell	Adaptive
+HAVCR1	Type 1 T helper cell	Adaptive
+HSD11B1	Type 1 T helper cell	Adaptive
+HUNK	Type 1 T helper cell	Adaptive
+IGF2	Type 1 T helper cell	Adaptive
+RCSD1	Type 1 T helper cell	Adaptive
+RYR1	Type 1 T helper cell	Adaptive
+SAV1	Type 1 T helper cell	Adaptive
+SELE	Type 1 T helper cell	Adaptive
+SELP	Type 1 T helper cell	Adaptive
+SH3KBP1	Type 1 T helper cell	Adaptive
+SIT1	Type 1 T helper cell	Adaptive
+SLC35B3	Type 1 T helper cell	Adaptive
+SIGLEC10	Type 1 T helper cell	Adaptive
+SKAP1	Type 1 T helper cell	Adaptive
+THUMPD2	Type 1 T helper cell	Adaptive
+TIGIT	Type 1 T helper cell	Adaptive
+ZEB2	Type 1 T helper cell	Adaptive
+ENC1	Type 1 T helper cell	Adaptive
+FAM134B	Type 1 T helper cell	Adaptive
+FBXO30	Type 1 T helper cell	Adaptive
+FCGR2C	Type 1 T helper cell	Adaptive
+STAC	Type 1 T helper cell	Adaptive
+LTC4S	Type 1 T helper cell	Adaptive
+MAN1B1	Type 1 T helper cell	Adaptive
+MDH1	Type 1 T helper cell	Adaptive
+MMD	Type 1 T helper cell	Adaptive
+RGS16	Type 1 T helper cell	Adaptive
+IL12A	Type 1 T helper cell	Adaptive
+P2RX5	Type 1 T helper cell	Adaptive
+CD97	Type 1 T helper cell	Adaptive
+ITGB4	Type 1 T helper cell	Adaptive
+ICAM3	Type 1 T helper cell	Adaptive
+METRNL	Type 1 T helper cell	Adaptive
+TNFRSF1A	Type 1 T helper cell	Adaptive
+IRF1	Type 1 T helper cell	Adaptive
+HTR2B	Type 1 T helper cell	Adaptive
+CALD1	Type 1 T helper cell	Adaptive
+MOCOS	Type 1 T helper cell	Adaptive
+TRAF3IP2	Type 1 T helper cell	Adaptive
+TLR8	Type 1 T helper cell	Adaptive
+TRAF1	Type 1 T helper cell	Adaptive
+DUSP14	Type 1 T helper cell	Adaptive
+IL17A	Type 17 T helper cell	Adaptive
+IL17RA	Type 17 T helper cell	Adaptive
+C2CD4A	Type 17 T helper cell	Adaptive
+C2CD4B	Type 17 T helper cell	Adaptive
+CA2	Type 17 T helper cell	Adaptive
+CCDC65	Type 17 T helper cell	Adaptive
+CEACAM3	Type 17 T helper cell	Adaptive
+IL17C	Type 17 T helper cell	Adaptive
+IL17F	Type 17 T helper cell	Adaptive
+IL17RC	Type 17 T helper cell	Adaptive
+IL17RE	Type 17 T helper cell	Adaptive
+IL23A	Type 17 T helper cell	Adaptive
+ILDR1	Type 17 T helper cell	Adaptive
+LONRF3	Type 17 T helper cell	Adaptive
+SH2D6	Type 17 T helper cell	Adaptive
+TNIP2	Type 17 T helper cell	Adaptive
+ABCA1	Type 17 T helper cell	Adaptive
+ABCB1	Type 17 T helper cell	Adaptive
+ADAMTS12	Type 17 T helper cell	Adaptive
+ANK1	Type 17 T helper cell	Adaptive
+ANKRD22	Type 17 T helper cell	Adaptive
+B3GALT2	Type 17 T helper cell	Adaptive
+CAMTA1	Type 17 T helper cell	Adaptive
+CCR9	Type 17 T helper cell	Adaptive
+CD40	Type 17 T helper cell	Adaptive
+GPR44	Type 17 T helper cell	Adaptive
+IFT80	Type 17 T helper cell	Adaptive
+ASB2	Type 2 T helper cell	Adaptive
+CSRP2	Type 2 T helper cell	Adaptive
+DAPK1	Type 2 T helper cell	Adaptive
+DLC1	Type 2 T helper cell	Adaptive
+DNAJC12	Type 2 T helper cell	Adaptive
+DUSP6	Type 2 T helper cell	Adaptive
+GNAI1	Type 2 T helper cell	Adaptive
+LAMP3	Type 2 T helper cell	Adaptive
+NRP2	Type 2 T helper cell	Adaptive
+OSBPL1A	Type 2 T helper cell	Adaptive
+PDE4B	Type 2 T helper cell	Adaptive
+PHLDA1	Type 2 T helper cell	Adaptive
+PLA2G4A	Type 2 T helper cell	Adaptive
+RAB27B	Type 2 T helper cell	Adaptive
+RBMS3	Type 2 T helper cell	Adaptive
+RNF125	Type 2 T helper cell	Adaptive
+TMPRSS3	Type 2 T helper cell	Adaptive
+GATA3	Type 2 T helper cell	Adaptive
+BIRC5	Type 2 T helper cell	Adaptive
+CDC25C	Type 2 T helper cell	Adaptive
+CDC7	Type 2 T helper cell	Adaptive
+CENPF	Type 2 T helper cell	Adaptive
+CXCR6	Type 2 T helper cell	Adaptive
+DHFR	Type 2 T helper cell	Adaptive
+EVI5	Type 2 T helper cell	Adaptive
+GSTA4	Type 2 T helper cell	Adaptive
+HELLS	Type 2 T helper cell	Adaptive
+IL26	Type 2 T helper cell	Adaptive
+LAIR2	Type 2 T helper cell	Adaptive
+ABCD1	Activated dendritic cell	Innate
+C1QC	Activated dendritic cell	Innate
+CAPG	Activated dendritic cell	Innate
+CCL3L3	Activated dendritic cell	Innate
+CD207	Activated dendritic cell	Innate
+CD302	Activated dendritic cell	Innate
+ATP5B	Activated dendritic cell	Innate
+ATP5L	Activated dendritic cell	Innate
+ATP6V1A	Activated dendritic cell	Innate
+BCL2L1	Activated dendritic cell	Innate
+C1QB	Activated dendritic cell	Innate
+SNURF	Activated dendritic cell	Innate
+SPCS3	Activated dendritic cell	Innate
+CCNA1	Activated dendritic cell	Innate
+CEACAM8	Activated dendritic cell	Innate
+NOS2	Activated dendritic cell	Innate
+SRA1	Activated dendritic cell	Innate
+TNFRSF6B	Activated dendritic cell	Innate
+TREM1	Activated dendritic cell	Innate
+TREML1	Activated dendritic cell	Innate
+RHOA	Activated dendritic cell	Innate
+SLC25A37	Activated dendritic cell	Innate
+TNFSF14	Activated dendritic cell	Innate
+TREML4	Activated dendritic cell	Innate
+VNN2	Activated dendritic cell	Innate
+XPO6	Activated dendritic cell	Innate
+CLEC4C	Activated dendritic cell	Innate
+TNFAIP2	Activated dendritic cell	Innate
+UBD	Activated dendritic cell	Innate
+ACTR3	Activated dendritic cell	Innate
+RAB1A	Activated dendritic cell	Innate
+SLA	Activated dendritic cell	Innate
+HLA-DQA2	Activated dendritic cell	Innate
+SIGLEC5	Activated dendritic cell	Innate
+SLAMF9	Activated dendritic cell	Innate
+ABAT	CD56bright natural killer cell	Innate
+C11orf75	CD56bright natural killer cell	Innate
+C5orf15	CD56bright natural killer cell	Innate
+CDHR1	CD56bright natural killer cell	Innate
+DCAF12	CD56bright natural killer cell	Innate
+DYNLL1	CD56bright natural killer cell	Innate
+GPR137B	CD56bright natural killer cell	Innate
+HCP5	CD56bright natural killer cell	Innate
+HDGFRP2	CD56bright natural killer cell	Innate
+KRT86	CD56bright natural killer cell	Innate
+MLST8	CD56bright natural killer cell	Innate
+ELMOD3	CD56bright natural killer cell	Innate
+ENTPD5	CD56bright natural killer cell	Innate
+FAM119A	CD56bright natural killer cell	Innate
+FAM179A	CD56bright natural killer cell	Innate
+CLIC2	CD56bright natural killer cell	Innate
+COX7A2L	CD56bright natural killer cell	Innate
+CREB3L4	CD56bright natural killer cell	Innate
+CSF1	CD56bright natural killer cell	Innate
+CSNK2A2	CD56bright natural killer cell	Innate
+CSTA	CD56bright natural killer cell	Innate
+CSTB	CD56bright natural killer cell	Innate
+CTPS	CD56bright natural killer cell	Innate
+CTSD	CD56bright natural killer cell	Innate
+FST	CD56bright natural killer cell	Innate
+GATA2	CD56bright natural killer cell	Innate
+GMPR	CD56bright natural killer cell	Innate
+HDC	CD56bright natural killer cell	Innate
+HEY1	CD56bright natural killer cell	Innate
+HOXA1	CD56bright natural killer cell	Innate
+HS2ST1	CD56bright natural killer cell	Innate
+HS3ST1	CD56bright natural killer cell	Innate
+BCL11B	CD56bright natural killer cell	Innate
+CDH3	CD56bright natural killer cell	Innate
+MYL6B	CD56bright natural killer cell	Innate
+NAA16	CD56bright natural killer cell	Innate
+ClQA	CD56bright natural killer cell	Innate
+ClQB	CD56bright natural killer cell	Innate
+CYP27B1	CD56bright natural killer cell	Innate
+EIF3M	CD56bright natural killer cell	Innate
+CYP27A1	CD56dim natural killer cell	Innate
+DDX55	CD56dim natural killer cell	Innate
+DYRK2	CD56dim natural killer cell	Innate
+RPL37A	CD56dim natural killer cell	Innate
+NOTCH3	CD56dim natural killer cell	Innate
+AKR7A3	CD56dim natural killer cell	Innate
+GPRC5C	CD56dim natural killer cell	Innate
+GRIN1	CD56dim natural killer cell	Innate
+HLA-E	CD56dim natural killer cell	Innate
+PORCN	CD56dim natural killer cell	Innate
+PSMC4	CD56dim natural killer cell	Innate
+UPP1	CD56dim natural killer cell	Innate
+IL21R	CD56dim natural killer cell	Innate
+KIR2DS1	CD56dim natural killer cell	Innate
+KIR2DS2	CD56dim natural killer cell	Innate
+KIR2DS5	CD56dim natural killer cell	Innate
+GIPR	Eosinophil	Innate
+KRT18P50	Eosinophil	Innate
+LRMP	Eosinophil	Innate
+FOSB	Eosinophil	Innate
+RRP12	Eosinophil	Innate
+GPR183	Eosinophil	Innate
+NR4A3	Eosinophil	Innate
+ST3GAL6	Eosinophil	Innate
+DEPDC5	Eosinophil	Innate
+PDE6C	Eosinophil	Innate
+PKD2L2	Eosinophil	Innate
+GPR65	Eosinophil	Innate
+IL5RA	Eosinophil	Innate
+P2RY14	Eosinophil	Innate
+DACH1	Eosinophil	Innate
+DAPK2	Eosinophil	Innate
+EMR3	Eosinophil	Innate
+ACADM	Immature dendritic cell	Innate
+AHCYL1	Immature dendritic cell	Innate
+ALDH1A2	Immature dendritic cell	Innate
+ALDH3A2	Immature dendritic cell	Innate
+ALDH9A1	Immature dendritic cell	Innate
+ALOX15	Immature dendritic cell	Innate
+AMT	Immature dendritic cell	Innate
+ARL1	Immature dendritic cell	Innate
+ATIC	Immature dendritic cell	Innate
+ATP5A1	Immature dendritic cell	Innate
+CAPZA1	Immature dendritic cell	Innate
+LILRA5	Immature dendritic cell	Innate
+RDX	Immature dendritic cell	Innate
+RRAGD	Immature dendritic cell	Innate
+TACSTD2	Immature dendritic cell	Innate
+INPP5F	Immature dendritic cell	Innate
+RAB38	Immature dendritic cell	Innate
+PLAU	Immature dendritic cell	Innate
+CSF3R	Immature dendritic cell	Innate
+SLC18A2	Immature dendritic cell	Innate
+AMPD2	Immature dendritic cell	Innate
+CLTB	Immature dendritic cell	Innate
+C1orf162	Immature dendritic cell	Innate
+AIF1	Macrophage	Innate
+CCL1	Macrophage	Innate
+CCL14	Macrophage	Innate
+CCL23	Macrophage	Innate
+CCL26	Macrophage	Innate
+CD300LB	Macrophage	Innate
+CNR1	Macrophage	Innate
+CNR2	Macrophage	Innate
+EIF1	Macrophage	Innate
+EIF4A1	Macrophage	Innate
+FPR1	Macrophage	Innate
+FPR2	Macrophage	Innate
+FRAT2	Macrophage	Innate
+GPR27	Macrophage	Innate
+GPR77	Macrophage	Innate
+RNASE2	Macrophage	Innate
+MS4A2	Macrophage	Innate
+BASP1	Macrophage	Innate
+IGSF6	Macrophage	Innate
+HK3	Macrophage	Innate
+VNN1	Macrophage	Innate
+FES	Macrophage	Innate
+NPL	Macrophage	Innate
+FZD2	Macrophage	Innate
+FAM198B	Macrophage	Innate
+HNMT	Macrophage	Innate
+SLC15A3	Macrophage	Innate
+CD4	Macrophage	Innate
+TXNDC3	Macrophage	Innate
+FRMD4A	Macrophage	Innate
+CRYBB1	Macrophage	Innate
+HRH1	Macrophage	Innate
+WNT5B	Macrophage	Innate
+ADAMTS3	Mast cell	Innate
+CPA3	Mast cell	Innate
+CMA1	Mast cell	Innate
+CTSG	Mast cell	Innate
+ARHGAP15	Mast cell	Innate
+CPM	Mast cell	Innate
+FCN1	Mast cell	Innate
+FTL	Mast cell	Innate
+HSPA6	Mast cell	Innate
+ITGA9	Mast cell	Innate
+RNASE3	Mast cell	Innate
+S100A4	Mast cell	Innate
+SIGLEC8	Mast cell	Innate
+SLC6A4	Mast cell	Innate
+PTGS2	Mast cell	Innate
+EGR3	Mast cell	Innate
+PILRA	Mast cell	Innate
+CCR2	MDSC	Innate
+CD14	MDSC	Innate
+CD2	MDSC	Innate
+CD86	MDSC	Innate
+CXCR4	MDSC	Innate
+FCGR2A	MDSC	Innate
+FCGR2B	MDSC	Innate
+FCGR3A	MDSC	Innate
+FERMT3	MDSC	Innate
+GPSM3	MDSC	Innate
+IL18BP	MDSC	Innate
+IL4R	MDSC	Innate
+ITGAL	MDSC	Innate
+ITGAM	MDSC	Innate
+PARVG	MDSC	Innate
+PSAP	MDSC	Innate
+PTGER2	MDSC	Innate
+PTGES2	MDSC	Innate
+S100A8	MDSC	Innate
+S100A9	MDSC	Innate
+ASGR2	Monocyte	Innate
+CFP	Monocyte	Innate
+ASGR1	Monocyte	Innate
+CD1D	Monocyte	Innate
+UPK3A	Monocyte	Innate
+ACTG1	Monocyte	Innate
+ANXA5	Monocyte	Innate
+ATP6V1B2	Monocyte	Innate
+CFL1	Monocyte	Innate
+DAZAP2	Monocyte	Innate
+CTBS	Monocyte	Innate
+EMR4P	Monocyte	Innate
+HIVEP2	Monocyte	Innate
+MARCKSL1	Monocyte	Innate
+MBP	Monocyte	Innate
+MMP15	Monocyte	Innate
+PNPLA6	Monocyte	Innate
+TMBIM6	Monocyte	Innate
+PQBP1	Monocyte	Innate
+TEX264	Monocyte	Innate
+IKZF1	Monocyte	Innate
+AKT3	Natural killer cell	Innate
+AXL	Natural killer cell	Innate
+BST2	Natural killer cell	Innate
+CDH2	Natural killer cell	Innate
+CRTAM	Natural killer cell	Innate
+CSF2RA	Natural killer cell	Innate
+CTSZ	Natural killer cell	Innate
+CXCL1	Natural killer cell	Innate
+CYTH1	Natural killer cell	Innate
+DAXX	Natural killer cell	Innate
+DGKH	Natural killer cell	Innate
+DLL4	Natural killer cell	Innate
+DPYD	Natural killer cell	Innate
+ERBB3	Natural killer cell	Innate
+F11R	Natural killer cell	Innate
+FAM27A	Natural killer cell	Innate
+FAM49A	Natural killer cell	Innate
+FASLG	Natural killer cell	Innate
+FCGR1A	Natural killer cell	Innate
+FN1	Natural killer cell	Innate
+FSTL1	Natural killer cell	Innate
+FUCA1	Natural killer cell	Innate
+GBP3	Natural killer cell	Innate
+GLS2	Natural killer cell	Innate
+GRB2	Natural killer cell	Innate
+LST1	Natural killer cell	Innate
+BCL2	Natural killer cell	Innate
+CDC5L	Natural killer cell	Innate
+FGF18	Natural killer cell	Innate
+FUT5	Natural killer cell	Innate
+FZR1	Natural killer cell	Innate
+GAGE2	Natural killer cell	Innate
+IGFBP5	Natural killer cell	Innate
+KANK2	Natural killer cell	Innate
+LDB3	Natural killer cell	Innate
+BTN2A2	Natural killer T cell	Innate
+CD101	Natural killer T cell	Innate
+CD109	Natural killer T cell	Innate
+CNPY3	Natural killer T cell	Innate
+CNPY4	Natural killer T cell	Innate
+CREB1	Natural killer T cell	Innate
+CRTC2	Natural killer T cell	Innate
+CRTC3	Natural killer T cell	Innate
+CSF2	Natural killer T cell	Innate
+KLRC1	Natural killer T cell	Innate
+FUT4	Natural killer T cell	Innate
+ICAM2	Natural killer T cell	Innate
+IL32	Natural killer T cell	Innate
+LAMP2	Natural killer T cell	Innate
+LILRB5	Natural killer T cell	Innate
+KLRG1	Natural killer T cell	Innate
+HSPA4	Natural killer T cell	Innate
+HSPB6	Natural killer T cell	Innate
+ISM2	Natural killer T cell	Innate
+ITIH2	Natural killer T cell	Innate
+KDM4C	Natural killer T cell	Innate
+KIR2DS4	Natural killer T cell	Innate
+KIRREL3	Natural killer T cell	Innate
+SDCBP	Natural killer T cell	Innate
+NFATC2IP	Natural killer T cell	Innate
+MICB	Natural killer T cell	Innate
+KIR2DL1	Natural killer T cell	Innate
+KIR2DL3	Natural killer T cell	Innate
+KIR3DL1	Natural killer T cell	Innate
+KIR3DL2	Natural killer T cell	Innate
+NCR1	Natural killer T cell	Innate
+FOSL1	Natural killer T cell	Innate
+TSLP	Natural killer T cell	Innate
+SLC7A7	Natural killer T cell	Innate
+SPP1	Natural killer T cell	Innate
+TREM2	Natural killer T cell	Innate
+UBASH3A	Natural killer T cell	Innate
+YBX2	Natural killer T cell	Innate
+CCDC88A	Natural killer T cell	Innate
+CLEC1A	Natural killer T cell	Innate
+THBD	Natural killer T cell	Innate
+PDPN	Natural killer T cell	Innate
+VCAM1	Natural killer T cell	Innate
+EMR1	Natural killer T cell	Innate
+CREB5	Neutrophil	Innate
+CDA	Neutrophil	Innate
+CHST15	Neutrophil	Innate
+S100A12	Neutrophil	Innate
+APOBEC3A	Neutrophil	Innate
+CASP5	Neutrophil	Innate
+MMP25	Neutrophil	Innate
+HAL	Neutrophil	Innate
+C1orf183	Neutrophil	Innate
+FFAR2	Neutrophil	Innate
+MAK	Neutrophil	Innate
+CXCR1	Neutrophil	Innate
+STEAP4	Neutrophil	Innate
+MGAM	Neutrophil	Innate
+BTNL8	Neutrophil	Innate
+CXCR2	Neutrophil	Innate
+TNFRSF10C	Neutrophil	Innate
+VNN3	Neutrophil	Innate
+CBX6	Plasmacytoid dendritic cell	Innate
+DAB2	Plasmacytoid dendritic cell	Innate
+DDX17	Plasmacytoid dendritic cell	Innate
+HIGD1A	Plasmacytoid dendritic cell	Innate
+IDH3A	Plasmacytoid dendritic cell	Innate
+IL3RA	Plasmacytoid dendritic cell	Innate
+MAGED1	Plasmacytoid dendritic cell	Innate
+NUCB2	Plasmacytoid dendritic cell	Innate
+OFD1	Plasmacytoid dendritic cell	Innate
+OGT	Plasmacytoid dendritic cell	Innate
+PDIA4	Plasmacytoid dendritic cell	Innate
+SERTAD2	Plasmacytoid dendritic cell	Innate
+SIRPA	Plasmacytoid dendritic cell	Innate
+TMED2	Plasmacytoid dendritic cell	Innate
+ENG	Plasmacytoid dendritic cell	Innate
+FCAR	Plasmacytoid dendritic cell	Innate
+IGF1	Plasmacytoid dendritic cell	Innate
+ITGA2B	Plasmacytoid dendritic cell	Innate
+GABARAP	Plasmacytoid dendritic cell	Innate
+GPX1	Plasmacytoid dendritic cell	Innate
+KRT23	Plasmacytoid dendritic cell	Innate
+PROK2	Plasmacytoid dendritic cell	Innate
+RALB	Plasmacytoid dendritic cell	Innate
+RETNLB	Plasmacytoid dendritic cell	Innate
+RNF141	Plasmacytoid dendritic cell	Innate
+SEC14L1	Plasmacytoid dendritic cell	Innate
+SEPX1	Plasmacytoid dendritic cell	Innate
+EMP3	Plasmacytoid dendritic cell	Innate
+CD300LF	Plasmacytoid dendritic cell	Innate
+ABTB1	Plasmacytoid dendritic cell	Innate
+KLHL21	Plasmacytoid dendritic cell	Innate
+PHRF1	Plasmacytoid dendritic cell	Innate
+CCL1	aDC	Sanders
+EBI3	aDC	Sanders
+INDO	aDC	Sanders
+LAMP3	aDC	Sanders
+OAS3	aDC	Sanders
+ABCB4	B cells	Sanders
+BACH2	B cells	Sanders
+BCL11A	B cells	Sanders
+BLK	B cells	Sanders
+BLNK	B cells	Sanders
+CCR9	B cells	Sanders
+CD19	B cells	Sanders
+CD72	B cells	Sanders
+COCH	B cells	Sanders
+CR2	B cells	Sanders
+DTNB	B cells	Sanders
+FCRL2	B cells	Sanders
+GLDC	B cells	Sanders
+GNG7	B cells	Sanders
+HLA-DOB	B cells	Sanders
+HLA-DQA1	B cells	Sanders
+IGHA1	B cells	Sanders
+IGHG1	B cells	Sanders
+IGHM	B cells	Sanders
+IGKC	B cells	Sanders
+IGL	B cells	Sanders
+KIAA0125	B cells	Sanders
+MEF2C	B cells	Sanders
+MICAL3	B cells	Sanders
+MS4A1	B cells	Sanders
+OSBPL10	B cells	Sanders
+PNOC	B cells	Sanders
+QRSL1	B cells	Sanders
+SCN3A	B cells	Sanders
+SLC15A2	B cells	Sanders
+SPIB	B cells	Sanders
+TCL1A	B cells	Sanders
+TNFRSF17	B cells	Sanders
+ABT1	CD8 T cells	Sanders
+AES	CD8 T cells	Sanders
+APBA2	CD8 T cells	Sanders
+ARHGAP8	CD8 T cells	Sanders
+C12orf47	CD8 T cells	Sanders
+C19orf6	CD8 T cells	Sanders
+C4orf15	CD8 T cells	Sanders
+CAMLG	CD8 T cells	Sanders
+CD8A	CD8 T cells	Sanders
+CD8B	CD8 T cells	Sanders
+CDKN2AIP	CD8 T cells	Sanders
+DNAJB1	CD8 T cells	Sanders
+FLT3LG	CD8 T cells	Sanders
+GADD45A	CD8 T cells	Sanders
+GZMM	CD8 T cells	Sanders
+KLF9	CD8 T cells	Sanders
+LEPROTL1	CD8 T cells	Sanders
+LIME1	CD8 T cells	Sanders
+MYST3	CD8 T cells	Sanders
+PF4	CD8 T cells	Sanders
+PPP1R2	CD8 T cells	Sanders
+PRF1	CD8 T cells	Sanders
+PRR5	CD8 T cells	Sanders
+RBM3	CD8 T cells	Sanders
+SF1	CD8 T cells	Sanders
+SFRS7	CD8 T cells	Sanders
+SLC16A7	CD8 T cells	Sanders
+TBCC	CD8 T cells	Sanders
+THUMPD1	CD8 T cells	Sanders
+TMC6	CD8 T cells	Sanders
+TSC22D3	CD8 T cells	Sanders
+VAMP2	CD8 T cells	Sanders
+ZEB1	CD8 T cells	Sanders
+ZFP36L2	CD8 T cells	Sanders
+ZNF22	CD8 T cells	Sanders
+ZNF609	CD8 T cells	Sanders
+ZNF91	CD8 T cells	Sanders
+APBA2	Cytotoxic cells	Sanders
+APOL3	Cytotoxic cells	Sanders
+CTSW	Cytotoxic cells	Sanders
+DUSP2	Cytotoxic cells	Sanders
+GNLY	Cytotoxic cells	Sanders
+GZMA	Cytotoxic cells	Sanders
+GZMH	Cytotoxic cells	Sanders
+KLRB1	Cytotoxic cells	Sanders
+KLRD1	Cytotoxic cells	Sanders
+KLRF1	Cytotoxic cells	Sanders
+KLRK1	Cytotoxic cells	Sanders
+NKG7	Cytotoxic cells	Sanders
+RORA	Cytotoxic cells	Sanders
+RUNX3	Cytotoxic cells	Sanders
+SIGIRR	Cytotoxic cells	Sanders
+WHAMMP3	Cytotoxic cells	Sanders
+ZBTB16	Cytotoxic cells	Sanders
+CCL13	DC	Sanders
+CCL17	DC	Sanders
+CCL22	DC	Sanders
+CD209	DC	Sanders
+HSD11B1	DC	Sanders
+NPR1	DC	Sanders
+PPFIBP2	DC	Sanders
+ABHD2	Eosinophils	Sanders
+ACACB	Eosinophils	Sanders
+C9orf156	Eosinophils	Sanders
+CAT	Eosinophils	Sanders
+CCR3	Eosinophils	Sanders
+CLC	Eosinophils	Sanders
+CYSLTR2	Eosinophils	Sanders
+EMR1	Eosinophils	Sanders
+EPN2	Eosinophils	Sanders
+GALC	Eosinophils	Sanders
+GPR44	Eosinophils	Sanders
+HES1	Eosinophils	Sanders
+HIST1H1C	Eosinophils	Sanders
+HRH4	Eosinophils	Sanders
+IGSF2	Eosinophils	Sanders
+IL5RA	Eosinophils	Sanders
+KBTBD11	Eosinophils	Sanders
+KCNH2	Eosinophils	Sanders
+LRP5L	Eosinophils	Sanders
+MYO15B	Eosinophils	Sanders
+RCOR3	Eosinophils	Sanders
+RNASE2	Eosinophils	Sanders
+RRP12	Eosinophils	Sanders
+SIAH1	Eosinophils	Sanders
+SMPD3	Eosinophils	Sanders
+SYNJ1	Eosinophils	Sanders
+TGIF1	Eosinophils	Sanders
+THBS1	Eosinophils	Sanders
+THBS4	Eosinophils	Sanders
+TIPARP	Eosinophils	Sanders
+TKTL1	Eosinophils	Sanders
+ABCG2	iDC	Sanders
+BLVRB	iDC	Sanders
+CARD9	iDC	Sanders
+CD1A	iDC	Sanders
+CD1B	iDC	Sanders
+CD1C	iDC	Sanders
+CD1E	iDC	Sanders
+CH25H	iDC	Sanders
+CLEC10A	iDC	Sanders
+CSF1R	iDC	Sanders
+CTNS	iDC	Sanders
+F13A1	iDC	Sanders
+FABP4	iDC	Sanders
+FZD2	iDC	Sanders
+GSTT1	iDC	Sanders
+GUCA1A	iDC	Sanders
+HS3ST2	iDC	Sanders
+LMAN2L	iDC	Sanders
+MMP12	iDC	Sanders
+MS4A6A	iDC	Sanders
+NUDT9	iDC	Sanders
+PDXK	iDC	Sanders
+PPARG	iDC	Sanders
+PREP	iDC	Sanders
+RAP1GAP	iDC	Sanders
+SLC26A6	iDC	Sanders
+SLC7A8	iDC	Sanders
+SYT17	iDC	Sanders
+TACSTD2	iDC	Sanders
+TM7SF4	iDC	Sanders
+VASH1	iDC	Sanders
+APOE	Macrophages	Sanders
+ATG7	Macrophages	Sanders
+BCAT1	Macrophages	Sanders
+CCL7	Macrophages	Sanders
+CD163	Macrophages	Sanders
+CD68	Macrophages	Sanders
+CD84	Macrophages	Sanders
+CHI3L1	Macrophages	Sanders
+CHIT1	Macrophages	Sanders
+CLEC5A	Macrophages	Sanders
+COL8A2	Macrophages	Sanders
+COLEC12	Macrophages	Sanders
+CTSK	Macrophages	Sanders
+CXCL5	Macrophages	Sanders
+CYBB	Macrophages	Sanders
+DNASE2B	Macrophages	Sanders
+EMP1	Macrophages	Sanders
+FDX1	Macrophages	Sanders
+FN1	Macrophages	Sanders
+GM2A	Macrophages	Sanders
+GPC4	Macrophages	Sanders
+KAL1	Macrophages	Sanders
+MARCO	Macrophages	Sanders
+ME1	Macrophages	Sanders
+MS4A4A	Macrophages	Sanders
+MSR1	Macrophages	Sanders
+PCOLCE2	Macrophages	Sanders
+PTGDS	Macrophages	Sanders
+RAI14	Macrophages	Sanders
+SCARB2	Macrophages	Sanders
+SCG5	Macrophages	Sanders
+SGMS1	Macrophages	Sanders
+SULT1C2	Macrophages	Sanders
+ABCC4	Mast cells	Sanders
+ADCYAP1	Mast cells	Sanders
+CALB2	Mast cells	Sanders
+CEACAM8	Mast cells	Sanders
+CMA1	Mast cells	Sanders
+CPA3	Mast cells	Sanders
+CTSG	Mast cells	Sanders
+ELA2	Mast cells	Sanders
+GATA2	Mast cells	Sanders
+HDC	Mast cells	Sanders
+HPGD	Mast cells	Sanders
+HPGDS	Mast cells	Sanders
+KIT	Mast cells	Sanders
+LINC01140	Mast cells	Sanders
+MAOB	Mast cells	Sanders
+MLPH	Mast cells	Sanders
+MPO	Mast cells	Sanders
+MS4A2	Mast cells	Sanders
+NR0B1	Mast cells	Sanders
+PPM1H	Mast cells	Sanders
+PRG2	Mast cells	Sanders
+PTGS1	Mast cells	Sanders
+SCG2	Mast cells	Sanders
+SIGLEC6	Mast cells	Sanders
+SLC18A2	Mast cells	Sanders
+SLC24A3	Mast cells	Sanders
+TAL1	Mast cells	Sanders
+TPSAB1	Mast cells	Sanders
+TPSB2	Mast cells	Sanders
+VWA5A	Mast cells	Sanders
+ALPL	Neutrophils	Sanders
+BST1	Neutrophils	Sanders
+CD93	Neutrophils	Sanders
+CEACAM3	Neutrophils	Sanders
+CREB5	Neutrophils	Sanders
+CRISPLD2	Neutrophils	Sanders
+CSF3R	Neutrophils	Sanders
+CYP4F3	Neutrophils	Sanders
+DYSF	Neutrophils	Sanders
+FCAR	Neutrophils	Sanders
+FCGR3B	Neutrophils	Sanders
+FLJ11151	Neutrophils	Sanders
+FPR1	Neutrophils	Sanders
+FPRL1	Neutrophils	Sanders
+G0S2	Neutrophils	Sanders
+HIST1H2BC	Neutrophils	Sanders
+HPSE	Neutrophils	Sanders
+IL8RA	Neutrophils	Sanders
+IL8RB	Neutrophils	Sanders
+KCNJ15	Neutrophils	Sanders
+LILRB2	Neutrophils	Sanders
+MGAM	Neutrophils	Sanders
+MME	Neutrophils	Sanders
+PDE4B	Neutrophils	Sanders
+S100A12	Neutrophils	Sanders
+SIGLEC5	Neutrophils	Sanders
+SLC22A4	Neutrophils	Sanders
+SLC25A37	Neutrophils	Sanders
+TECPR2	Neutrophils	Sanders
+TNFRSF10C	Neutrophils	Sanders
+VNN3	Neutrophils	Sanders
+DUSP4	NK CD56bright cells	Sanders
+FOXJ1	NK CD56bright cells	Sanders
+LPCAT4	NK CD56bright cells	Sanders
+MADD	NK CD56bright cells	Sanders
+6-Mar	NK CD56bright cells	Sanders
+MPPED1	NK CD56bright cells	Sanders
+MUC3B	NK CD56bright cells	Sanders
+NIBP	NK CD56bright cells	Sanders
+PLA2G6	NK CD56bright cells	Sanders
+RRAD	NK CD56bright cells	Sanders
+XCL1	NK CD56bright cells	Sanders
+EDG8	NK CD56dim cells	Sanders
+FLJ20699	NK CD56dim cells	Sanders
+GTF3C1	NK CD56dim cells	Sanders
+GZMB	NK CD56dim cells	Sanders
+IL21R	NK CD56dim cells	Sanders
+KIR2DL3	NK CD56dim cells	Sanders
+KIR2DS1	NK CD56dim cells	Sanders
+KIR2DS2	NK CD56dim cells	Sanders
+KIR2DS5	NK CD56dim cells	Sanders
+KIR3DL1	NK CD56dim cells	Sanders
+KIR3DL2	NK CD56dim cells	Sanders
+KIR3DL3	NK CD56dim cells	Sanders
+KIR3DS1	NK CD56dim cells	Sanders
+SPON2	NK CD56dim cells	Sanders
+TMEPAI	NK CD56dim cells	Sanders
+ADARB1	NK cells	Sanders
+AF107846	NK cells	Sanders
+ALDH1B1	NK cells	Sanders
+APBB2	NK cells	Sanders
+ATL2	NK cells	Sanders
+BCL2	NK cells	Sanders
+CDC5L	NK cells	Sanders
+FGF18	NK cells	Sanders
+FUT5	NK cells	Sanders
+FZR1	NK cells	Sanders
+GAGE2A	NK cells	Sanders
+IGFBP5	NK cells	Sanders
+KANK2	NK cells	Sanders
+LDB3	NK cells	Sanders
+MAPRE3	NK cells	Sanders
+MCM3AP	NK cells	Sanders
+MRC2	NK cells	Sanders
+NCR1	NK cells	Sanders
+PDLIM4	NK cells	Sanders
+PRX	NK cells	Sanders
+PSMD4	NK cells	Sanders
+RP5-886K2.1	NK cells	Sanders
+SGMS1	NK cells	Sanders
+SLC30A5	NK cells	Sanders
+SMEK1	NK cells	Sanders
+SPN	NK cells	Sanders
+TBXA2R	NK cells	Sanders
+TCTN2	NK cells	Sanders
+TINAGL1	NK cells	Sanders
+TRPV6	NK cells	Sanders
+XCL1	NK cells	Sanders
+XCL2	NK cells	Sanders
+ZNF205	NK cells	Sanders
+ZNF528	NK cells	Sanders
+ZNF747	NK cells	Sanders
+IL3RA	pDC	Sanders
+BCL11B	T cells	Sanders
+CD2	T cells	Sanders
+CD28	T cells	Sanders
+CD3D	T cells	Sanders
+CD3E	T cells	Sanders
+CD3G	T cells	Sanders
+CD6	T cells	Sanders
+CD96	T cells	Sanders
+GIMAP5	T cells	Sanders
+ITM2A	T cells	Sanders
+LCK	T cells	Sanders
+NCALD	T cells	Sanders
+PRKCQ	T cells	Sanders
+SH2D1A	T cells	Sanders
+SKAP1	T cells	Sanders
+TRA	T cells	Sanders
+TRAC	T cells	Sanders
+TRAT1	T cells	Sanders
+TRBC1	T cells	Sanders
+ANP32B	T helper cells	Sanders
+ASF1A	T helper cells	Sanders
+ATF2	T helper cells	Sanders
+BATF	T helper cells	Sanders
+C13orf34	T helper cells	Sanders
+CD28	T helper cells	Sanders
+DDX50	T helper cells	Sanders
+FAM111A	T helper cells	Sanders
+FRYL	T helper cells	Sanders
+GOLGA8A	T helper cells	Sanders
+ICOS	T helper cells	Sanders
+ITM2A	T helper cells	Sanders
+LRBA	T helper cells	Sanders
+NAP1L4	T helper cells	Sanders
+NUP107	T helper cells	Sanders
+PHF10	T helper cells	Sanders
+PPP2R5C	T helper cells	Sanders
+RPA1	T helper cells	Sanders
+SEC24C	T helper cells	Sanders
+SLC25A12	T helper cells	Sanders
+SRSF10	T helper cells	Sanders
+TRA	T helper cells	Sanders
+UBE2L3	T helper cells	Sanders
+YME1L1	T helper cells	Sanders
+AQP3	Tcm cells	Sanders
+ATF7IP	Tcm cells	Sanders
+ATM	Tcm cells	Sanders
+CASP8	Tcm cells	Sanders
+CDC14A	Tcm cells	Sanders
+CEP68	Tcm cells	Sanders
+CLUAP1	Tcm cells	Sanders
+CREBZF	Tcm cells	Sanders
+CYLD	Tcm cells	Sanders
+DOCK9	Tcm cells	Sanders
+FAM153B	Tcm cells	Sanders
+FOXP1	Tcm cells	Sanders
+FYB	Tcm cells	Sanders
+HNRPH1	Tcm cells	Sanders
+INPP4B	Tcm cells	Sanders
+KLF12	Tcm cells	Sanders
+LOC441155	Tcm cells	Sanders
+MAP3K1	Tcm cells	Sanders
+MLL	Tcm cells	Sanders
+N4BP2L2-IT2	Tcm cells	Sanders
+NEFL	Tcm cells	Sanders
+NFATC3	Tcm cells	Sanders
+PCM1	Tcm cells	Sanders
+PCNX	Tcm cells	Sanders
+PDXDC2	Tcm cells	Sanders
+PHC3	Tcm cells	Sanders
+POLR2J2	Tcm cells	Sanders
+PSPC1	Tcm cells	Sanders
+REPS1	Tcm cells	Sanders
+RPP38	Tcm cells	Sanders
+SLC7A6	Tcm cells	Sanders
+SNRPN	Tcm cells	Sanders
+ST3GAL1	Tcm cells	Sanders
+STX16	Tcm cells	Sanders
+TIMM8A	Tcm cells	Sanders
+TRAF3IP3	Tcm cells	Sanders
+TXK	Tcm cells	Sanders
+TXLNGY	Tcm cells	Sanders
+USP9Y	Tcm cells	Sanders
+AKT3	Tem cells	Sanders
+C7orf54	Tem cells	Sanders
+CCR2	Tem cells	Sanders
+DDX17	Tem cells	Sanders
+EWSR1	Tem cells	Sanders
+FLI1	Tem cells	Sanders
+GDPD5	Tem cells	Sanders
+LTK	Tem cells	Sanders
+MEFV	Tem cells	Sanders
+NFATC4	Tem cells	Sanders
+PRKY	Tem cells	Sanders
+TBC1D5	Tem cells	Sanders
+TBCD	Tem cells	Sanders
+TRA	Tem cells	Sanders
+VIL2	Tem cells	Sanders
+B3GAT1	Tfh cells	Sanders
+BLR1	Tfh cells	Sanders
+C18orf1	Tfh cells	Sanders
+CDK5R1	Tfh cells	Sanders
+CHGB	Tfh cells	Sanders
+CHI3L2	Tfh cells	Sanders
+CXCL13	Tfh cells	Sanders
+HEY1	Tfh cells	Sanders
+HIST1H4K	Tfh cells	Sanders
+ICA1	Tfh cells	Sanders
+KCNK5	Tfh cells	Sanders
+KIAA1324	Tfh cells	Sanders
+MAF	Tfh cells	Sanders
+MAGEH1	Tfh cells	Sanders
+MKL2	Tfh cells	Sanders
+MYO6	Tfh cells	Sanders
+MYO7A	Tfh cells	Sanders
+PASK	Tfh cells	Sanders
+PDCD1	Tfh cells	Sanders
+POMT1	Tfh cells	Sanders
+PTPN13	Tfh cells	Sanders
+PVALB	Tfh cells	Sanders
+SH3TC1	Tfh cells	Sanders
+SIRPG	Tfh cells	Sanders
+SLC7A10	Tfh cells	Sanders
+SMAD1	Tfh cells	Sanders
+ST8SIA1	Tfh cells	Sanders
+STK39	Tfh cells	Sanders
+THADA	Tfh cells	Sanders
+TOX	Tfh cells	Sanders
+TSHR	Tfh cells	Sanders
+ZNF764	Tfh cells	Sanders
+C1orf61	Tgd cells	Sanders
+CD160	Tgd cells	Sanders
+FEZ1	Tgd cells	Sanders
+TARP	Tgd cells	Sanders
+TRD	Tgd cells	Sanders
+TRGV9	Tgd cells	Sanders
+APBB2	Th1 cells	Sanders
+APOD	Th1 cells	Sanders
+ATP9A	Th1 cells	Sanders
+BST2	Th1 cells	Sanders
+BTG3	Th1 cells	Sanders
+CCL4	Th1 cells	Sanders
+CD38	Th1 cells	Sanders
+CD70	Th1 cells	Sanders
+CMAH	Th1 cells	Sanders
+CSF2	Th1 cells	Sanders
+CTLA4	Th1 cells	Sanders
+DGKI	Th1 cells	Sanders
+DOK5	Th1 cells	Sanders
+DPP4	Th1 cells	Sanders
+DUSP5	Th1 cells	Sanders
+EGFL6	Th1 cells	Sanders
+GGT1	Th1 cells	Sanders
+HBEGF	Th1 cells	Sanders
+IFNG	Th1 cells	Sanders
+IL12RB2	Th1 cells	Sanders
+IL22	Th1 cells	Sanders
+LRP8	Th1 cells	Sanders
+LRRN3	Th1 cells	Sanders
+LTA	Th1 cells	Sanders
+SGCB	Th1 cells	Sanders
+SYNGR3	Th1 cells	Sanders
+ZBTB32	Th1 cells	Sanders
+IL17A	Th17 cells	Sanders
+IL17RA	Th17 cells	Sanders
+RORC	Th17 cells	Sanders
+ADCY1	Th2 cells	Sanders
+AHI1	Th2 cells	Sanders
+ANK1	Th2 cells	Sanders
+BIRC5	Th2 cells	Sanders
+CDC25C	Th2 cells	Sanders
+CDC7	Th2 cells	Sanders
+CENPF	Th2 cells	Sanders
+CXCR6	Th2 cells	Sanders
+DHFR	Th2 cells	Sanders
+EVI5	Th2 cells	Sanders
+GATA3	Th2 cells	Sanders
+GSTA4	Th2 cells	Sanders
+HELLS	Th2 cells	Sanders
+IL26	Th2 cells	Sanders
+LAIR2	Th2 cells	Sanders
+LIMA1	Th2 cells	Sanders
+MB	Th2 cells	Sanders
+MICAL2	Th2 cells	Sanders
+NEIL3	Th2 cells	Sanders
+PHEX	Th2 cells	Sanders
+PMCH	Th2 cells	Sanders
+PTGIS	Th2 cells	Sanders
+SLC39A14	Th2 cells	Sanders
+SMAD2	Th2 cells	Sanders
+SNRPD1	Th2 cells	Sanders
+WDHD1	Th2 cells	Sanders
+FOXP3	Treg cells	Sanders
+CDH5	Angiogenesis	Sanders
+ELTD1	Angiogenesis	Sanders
+CLEC14A	Angiogenesis	Sanders
+LDB2	Angiogenesis	Sanders
+ECSCR	Angiogenesis	Sanders
+MYCT1	Angiogenesis	Sanders
+RHOJ	Angiogenesis	Sanders
+VWF	Angiogenesis	Sanders
+TIE1	Angiogenesis	Sanders
+KDR	Angiogenesis	Sanders
+ESAM	Angiogenesis	Sanders
+PTPRB	Angiogenesis	Sanders
+GPR116	Angiogenesis	Sanders
+SPARCL1	Angiogenesis	Sanders
+EMCN	Angiogenesis	Sanders
+ROBO4	Angiogenesis	Sanders
+ENG	Angiogenesis	Sanders
+TEK	Angiogenesis	Sanders
+S1PR1	Angiogenesis	Sanders
+A2M	Angiogenesis	Sanders
+JAM2	Angiogenesis	Sanders
+COL15A1	Angiogenesis	Sanders
+PECAM1	Angiogenesis	Sanders
+CALCRL	Angiogenesis	Sanders
+CLEC3B	Angiogenesis	Sanders
+PLVAP	Angiogenesis	Sanders
+RGS5	Angiogenesis	Sanders
+LRRC32	Angiogenesis	Sanders
+EBF1	Angiogenesis	Sanders
+ADCY4	Angiogenesis	Sanders
+ACVRL1	Angiogenesis	Sanders
+GPR124	Angiogenesis	Sanders
+APLNR	Angiogenesis	Sanders
+TM4SF18	Angiogenesis	Sanders
+GNG11	Angiogenesis	Sanders
+CNRIP1	Angiogenesis	Sanders
+ZNF423	Angiogenesis	Sanders
+GIMAP8	Angiogenesis	Sanders
+PDGFD	Angiogenesis	Sanders
+ITGA9	Angiogenesis	Sanders
+EDNRB	Angiogenesis	Sanders
+HLA-A	Antigen presenting machinery	Sanders
+HLA-B	Antigen presenting machinery	Sanders
+HLA-C	Antigen presenting machinery	Sanders
+B2M	Antigen presenting machinery	Sanders
+TAP1	Antigen presenting machinery	Sanders
+TAP2	Antigen presenting machinery	Sanders
+TAPBP	Antigen presenting machinery	Sanders
+BLK	B-cells	Danaher
+CD19	B-cells	Danaher
+MS4A1	B-cells	Danaher
+TNFRSF17	B-cells	Danaher
+FCRL2	B-cells	Danaher
+KIAA0125	B-cells	Danaher
+PNOC	B-cells	Danaher
+SPIB	B-cells	Danaher
+TCL1A	B-cells	Danaher
+PTPRC	CD45	Danaher
+CD8A	CD8 T cells	Danaher
+CD8B	CD8 T cells	Danaher
+CTSW	Cytotoxic cells	Danaher
+GNLY	Cytotoxic cells	Danaher
+GZMA	Cytotoxic cells	Danaher
+GZMB	Cytotoxic cells	Danaher
+GZMH	Cytotoxic cells	Danaher
+KLRB1	Cytotoxic cells	Danaher
+KLRD1	Cytotoxic cells	Danaher
+KLRK1	Cytotoxic cells	Danaher
+PRF1	Cytotoxic cells	Danaher
+NKG7	Cytotoxic cells	Danaher
+CCL13	DC	Danaher
+CD209	DC	Danaher
+HSD11B1	DC	Danaher
+CD244	Exhausted CD8	Danaher
+EOMES	Exhausted CD8	Danaher
+LAG3	Exhausted CD8	Danaher
+PTGER4	Exhausted CD8	Danaher
+CD163	Macrophages	Danaher
+CD68	Macrophages	Danaher
+CD84	Macrophages	Danaher
+MS4A4A	Macrophages	Danaher
+MS4A2	Mast cells	Danaher
+TPSAB1	Mast cells	Danaher
+CPA3	Mast cells	Danaher
+HDC	Mast cells	Danaher
+TPSB2	Mast cells	Danaher
+CSF3R	Neutrophils	Danaher
+S100A12	Neutrophils	Danaher
+CEACAM3	Neutrophils	Danaher
+FCAR	Neutrophils	Danaher
+FCGR3B	Neutrophils	Danaher
+FPR1	Neutrophils	Danaher
+SIGLEC5	Neutrophils	Danaher
+IL21R	NK CD56dim cells	Danaher
+KIR2DL3	NK CD56dim cells	Danaher
+KIR3DL1	NK CD56dim cells	Danaher
+KIR3DL2	NK CD56dim cells	Danaher
+NCR1	NK cells	Danaher
+XCL2	NK cells	Danaher
+XCL1	NK cells	Danaher
+CD3D	T-cells	Danaher
+CD3E	T-cells	Danaher
+CD3G	T-cells	Danaher
+CD6	T-cells	Danaher
+SH2D1A	T-cells	Danaher
+TRAT1	T-cells	Danaher
+TBX21	Th1 cells	Danaher
+FOXP3	Treg	Danaher
+IGFBP4	CD4.mature	Davoli
+ITM2A	CD4.mature	Davoli
+AMIGO2	CD4.mature	Davoli
+TRAT1	CD4.mature	Davoli
+CD40LG	CD4.mature	Davoli
+ICOS	CD4.mature	Davoli
+RCAN3	CD4.mature	Davoli
+GZMK	CD8.effector	Davoli
+CD3E	CD8.effector	Davoli
+CD3G	CD8.effector	Davoli
+CXCR3	CD8.effector	Davoli
+CD3D	CD8.effector	Davoli
+BCL11B	CD8.effector	Davoli
+CD28	CD8.effector	Davoli
+KLRG1	CD8.effector	Davoli
+IL7R	CD8.effector	Davoli
+NKG7	NK.cells	Davoli
+GZMA	NK.cells	Davoli
+EOMES	NK.cells	Davoli
+SAMD3	NK.cells	Davoli
+TBX21	NK.cells	Davoli
+KLRK1	NK.cells	Davoli
+NCR1	NK.cells	Davoli
+PLCG2	NK.cells	Davoli
+STYK1	NK.cells	Davoli
+BANK1	B.cells	Davoli
+CD79A	B.cells	Davoli
+CD55	B.cells	Davoli
+CD19	B.cells	Davoli
+CD79B	B.cells	Davoli
+CXCR5	B.cells	Davoli
+FAIM3	B.cells	Davoli
+IL2RA	T.reg	Davoli
+FOXP3	T.reg	Davoli
+CTLA4	T.reg	Davoli
+SLC35D1	T.reg	Davoli
+GDPD3	T.reg	Davoli
+CISH	T.reg	Davoli
+NR4A3	Dendritic	Davoli
+HAVCR2	Dendritic	Davoli
+KMO	Dendritic	Davoli
+DNASE1L3	Dendritic	Davoli
+ANPEP	Dendritic	Davoli
+CXCL16	Dendritic	Davoli
+NKG7	CD8.effector.NK.cells	Davoli
+CCL5	CD8.effector.NK.cells	Davoli
+KLRK1	CD8.effector.NK.cells	Davoli
+CCR5	CD8.effector.NK.cells	Davoli
+CXCR6	CD8.effector.NK.cells	Davoli
+CRTAM	CD8.effector.NK.cells	Davoli
+GZMA	CD8.effector.NK.cells	Davoli
+KLRG1	CD8.effector.NK.cells	Davoli
+SERPINB9	CD8.effector.NK.cells	Davoli
+EOMES	CD8.effector.NK.cells	Davoli
+SAMD3	CD8.effector.NK.cells	Davoli
+IL12RB2	CD8.effector.NK.cells	Davoli
+TBX21	CD8.effector.NK.cells	Davoli
+CHSY1	CD8.effector.NK.cells	Davoli
+PRF1	CD8.effector.NK.cells	Davoli
+IL2RB	CD8.effector.NK.cells	Davoli
+KLRD1	CD8.effector.NK.cells	Davoli
+GZMK	CD8.effector.NK.cells	Davoli
+IL18R1	CD8.effector.NK.cells	Davoli
+CD5L	Macrophages	Davoli
+FCGR3A	Macrophages	Davoli
+ITGB5	Macrophages	Davoli
+MERTK	Macrophages	Davoli
+PILRA	Macrophages	Davoli
+CCL8	Macrophages	Davoli
+C1QC	Macrophages	Davoli
+C1QB	Macrophages	Davoli
+C1QA	Macrophages	Davoli
+HRH1	Macrophages.M2	Davoli
+NPL	Macrophages.M2	Davoli
+PDCD1LG2	Macrophages.M2	Davoli
+RENBP	Macrophages.M2	Davoli
+CFP	Macrophages.M2	Davoli
+C1QC	Macrophages.M2	Davoli
+C1QB	Macrophages.M2	Davoli
+C1QA	Macrophages.M2	Davoli
+CD5L	Macrophages.M2	Davoli
+FCGR3A	Macrophages.M2	Davoli
+ITGB5	Macrophages.M2	Davoli
+MERTK	Macrophages.M2	Davoli
+PILRA	Macrophages.M2	Davoli
+CCL8	Macrophages.M2	Davoli
+CD40	Macrophages.M1	Davoli
+CXCL10	Macrophages.M1	Davoli
+CXCL11	Macrophages.M1	Davoli
+CXCL9	Macrophages.M1	Davoli
+SLAMF1	Macrophages.M1	Davoli
+TNIP3	Macrophages.M1	Davoli
+C1QC	Macrophages.M1	Davoli
+C1QB	Macrophages.M1	Davoli
+C1QA	Macrophages.M1	Davoli
+CD5L	Macrophages.M1	Davoli
+FCGR3A	Macrophages.M1	Davoli
+ITGB5	Macrophages.M1	Davoli
+MERTK	Macrophages.M1	Davoli
+PILRA	Macrophages.M1	Davoli
+CCL8	Macrophages.M1	Davoli
+TIGIT	Tcell_Inflamed	Ayers
+CD27	Tcell_Inflamed	Ayers
+CD8A	Tcell_Inflamed	Ayers
+PDCD1LG2	Tcell_Inflamed	Ayers
+LAG3	Tcell_Inflamed	Ayers
+CD274	Tcell_Inflamed	Ayers
+CXCR6	Tcell_Inflamed	Ayers
+CMKLR1	Tcell_Inflamed	Ayers
+NKG7	Tcell_Inflamed	Ayers
+CCL5	Tcell_Inflamed	Ayers
+PSMB10	Tcell_Inflamed	Ayers
+IDO1	Tcell_Inflamed	Ayers
+CXCL9	Tcell_Inflamed	Ayers
+HLA-DRB1	Tcell_Inflamed	Ayers
+HLA-DQA1	Tcell_Inflamed	Ayers
+CD276	Tcell_Inflamed	Ayers
+STAT1	Tcell_Inflamed	Ayers
+HLA-E	Tcell_Inflamed	Ayers
+IFNG	IFNG	Ayers
+STAT1	IFNG	Ayers
+CCR5	IFNG	Ayers
+CXCL9	IFNG	Ayers
+CXCL10	IFNG	Ayers
+CXCL11	IFNG	Ayers
+IDO1	IFNG	Ayers
+PRF1	IFNG	Ayers
+GZMA	IFNG	Ayers
+HLA-DRA	IFNG	Ayers
+IL10	Anti-inflammatory	Cytokines
+IL13	Anti-inflammatory	Cytokines
+IL1RN	Anti-inflammatory	Cytokines
+IL4	Anti-inflammatory	Cytokines
+IL5	Anti-inflammatory	Cytokines
+PAI1	Anti-inflammatory	Cytokines
+C5	Pro-inflammatory	Cytokines
+CSF2	Pro-inflammatory	Cytokines
+ICAM1	Pro-inflammatory	Cytokines
+IL12A	Pro-inflammatory	Cytokines
+IL16	Pro-inflammatory	Cytokines
+IL17	Pro-inflammatory	Cytokines
+IL17E	Pro-inflammatory	Cytokines
+IL18	Pro-inflammatory	Cytokines
+IL1A	Pro-inflammatory	Cytokines
+IL1B	Pro-inflammatory	Cytokines
+IL2	Pro-inflammatory	Cytokines
+IL21	Pro-inflammatory	Cytokines
+IL3	Pro-inflammatory	Cytokines
+IL32A	Pro-inflammatory	Cytokines
+IL7	Pro-inflammatory	Cytokines
+TNF	Pro-inflammatory	Cytokines
+ACKR3	Hypoxia	HALLMARK
+ADM	Hypoxia	HALLMARK
+ADORA2B	Hypoxia	HALLMARK
+AK4	Hypoxia	HALLMARK
+AKAP12	Hypoxia	HALLMARK
+ALDOA	Hypoxia	HALLMARK
+ALDOB	Hypoxia	HALLMARK
+ALDOC	Hypoxia	HALLMARK
+AMPD3	Hypoxia	HALLMARK
+ANGPTL4	Hypoxia	HALLMARK
+ANKZF1	Hypoxia	HALLMARK
+ANXA2	Hypoxia	HALLMARK
+ATF3	Hypoxia	HALLMARK
+ATP7A	Hypoxia	HALLMARK
+B3GALT6	Hypoxia	HALLMARK
+B4GALNT2	Hypoxia	HALLMARK
+BCAN	Hypoxia	HALLMARK
+BCL2	Hypoxia	HALLMARK
+BGN	Hypoxia	HALLMARK
+BHLHE40	Hypoxia	HALLMARK
+BNIP3L	Hypoxia	HALLMARK
+BRS3	Hypoxia	HALLMARK
+BTG1	Hypoxia	HALLMARK
+CA12	Hypoxia	HALLMARK
+CASP6	Hypoxia	HALLMARK
+CAV1	Hypoxia	HALLMARK
+CAVIN1	Hypoxia	HALLMARK
+CAVIN3	Hypoxia	HALLMARK
+CCN1	Hypoxia	HALLMARK
+CCN2	Hypoxia	HALLMARK
+CCN5	Hypoxia	HALLMARK
+CCNG2	Hypoxia	HALLMARK
+CDKN1A	Hypoxia	HALLMARK
+CDKN1B	Hypoxia	HALLMARK
+CDKN1C	Hypoxia	HALLMARK
+CHST2	Hypoxia	HALLMARK
+CHST3	Hypoxia	HALLMARK
+CITED2	Hypoxia	HALLMARK
+COL5A1	Hypoxia	HALLMARK
+CP	Hypoxia	HALLMARK
+CSRP2	Hypoxia	HALLMARK
+CXCR4	Hypoxia	HALLMARK
+DCN	Hypoxia	HALLMARK
+DDIT3	Hypoxia	HALLMARK
+DDIT4	Hypoxia	HALLMARK
+DPYSL4	Hypoxia	HALLMARK
+DTNA	Hypoxia	HALLMARK
+DUSP1	Hypoxia	HALLMARK
+EDN2	Hypoxia	HALLMARK
+EFNA1	Hypoxia	HALLMARK
+EFNA3	Hypoxia	HALLMARK
+EGFR	Hypoxia	HALLMARK
+ENO1	Hypoxia	HALLMARK
+ENO2	Hypoxia	HALLMARK
+ENO3	Hypoxia	HALLMARK
+ERO1A	Hypoxia	HALLMARK
+ERRFI1	Hypoxia	HALLMARK
+ETS1	Hypoxia	HALLMARK
+EXT1	Hypoxia	HALLMARK
+F3	Hypoxia	HALLMARK
+FAM162A	Hypoxia	HALLMARK
+FBP1	Hypoxia	HALLMARK
+FOS	Hypoxia	HALLMARK
+FOSL2	Hypoxia	HALLMARK
+FOXO3	Hypoxia	HALLMARK
+GAA	Hypoxia	HALLMARK
+GALK1	Hypoxia	HALLMARK
+GAPDH	Hypoxia	HALLMARK
+GAPDHS	Hypoxia	HALLMARK
+GBE1	Hypoxia	HALLMARK
+GCK	Hypoxia	HALLMARK
+GCNT2	Hypoxia	HALLMARK
+GLRX	Hypoxia	HALLMARK
+GPC1	Hypoxia	HALLMARK
+GPC3	Hypoxia	HALLMARK
+GPC4	Hypoxia	HALLMARK
+GPI	Hypoxia	HALLMARK
+GRHPR	Hypoxia	HALLMARK
+GYS1	Hypoxia	HALLMARK
+HAS1	Hypoxia	HALLMARK
+HDLBP	Hypoxia	HALLMARK
+HEXA	Hypoxia	HALLMARK
+HK1	Hypoxia	HALLMARK
+HK2	Hypoxia	HALLMARK
+HMOX1	Hypoxia	HALLMARK
+HOXB9	Hypoxia	HALLMARK
+HS3ST1	Hypoxia	HALLMARK
+HSPA5	Hypoxia	HALLMARK
+IDS	Hypoxia	HALLMARK
+IER3	Hypoxia	HALLMARK
+IGFBP1	Hypoxia	HALLMARK
+IGFBP3	Hypoxia	HALLMARK
+IL6	Hypoxia	HALLMARK
+ILVBL	Hypoxia	HALLMARK
+INHA	Hypoxia	HALLMARK
+IRS2	Hypoxia	HALLMARK
+ISG20	Hypoxia	HALLMARK
+JMJD6	Hypoxia	HALLMARK
+JUN	Hypoxia	HALLMARK
+KDELR3	Hypoxia	HALLMARK
+KDM3A	Hypoxia	HALLMARK
+KIF5A	Hypoxia	HALLMARK
+KLF6	Hypoxia	HALLMARK
+KLF7	Hypoxia	HALLMARK
+KLHL24	Hypoxia	HALLMARK
+LALBA	Hypoxia	HALLMARK
+LARGE1	Hypoxia	HALLMARK
+LDHA	Hypoxia	HALLMARK
+LDHC	Hypoxia	HALLMARK
+LOX	Hypoxia	HALLMARK
+LXN	Hypoxia	HALLMARK
+MAFF	Hypoxia	HALLMARK
+MAP3K1	Hypoxia	HALLMARK
+MIF	Hypoxia	HALLMARK
+MT1E	Hypoxia	HALLMARK
+MT2A	Hypoxia	HALLMARK
+MXI1	Hypoxia	HALLMARK
+MYH9	Hypoxia	HALLMARK
+NAGK	Hypoxia	HALLMARK
+NCAN	Hypoxia	HALLMARK
+NDRG1	Hypoxia	HALLMARK
+NDST1	Hypoxia	HALLMARK
+NDST2	Hypoxia	HALLMARK
+NEDD4L	Hypoxia	HALLMARK
+NFIL3	Hypoxia	HALLMARK
+NOCT	Hypoxia	HALLMARK
+NR3C1	Hypoxia	HALLMARK
+P4HA1	Hypoxia	HALLMARK
+P4HA2	Hypoxia	HALLMARK
+PAM	Hypoxia	HALLMARK
+PCK1	Hypoxia	HALLMARK
+PDGFB	Hypoxia	HALLMARK
+PDK1	Hypoxia	HALLMARK
+PDK3	Hypoxia	HALLMARK
+PFKFB3	Hypoxia	HALLMARK
+PFKL	Hypoxia	HALLMARK
+PFKP	Hypoxia	HALLMARK
+PGAM2	Hypoxia	HALLMARK
+PGF	Hypoxia	HALLMARK
+PGK1	Hypoxia	HALLMARK
+PGM1	Hypoxia	HALLMARK
+PGM2	Hypoxia	HALLMARK
+PHKG1	Hypoxia	HALLMARK
+PIM1	Hypoxia	HALLMARK
+PKLR	Hypoxia	HALLMARK
+PKP1	Hypoxia	HALLMARK
+PLAC8	Hypoxia	HALLMARK
+PLAUR	Hypoxia	HALLMARK
+PLIN2	Hypoxia	HALLMARK
+PNRC1	Hypoxia	HALLMARK
+PPARGC1A	Hypoxia	HALLMARK
+PPFIA4	Hypoxia	HALLMARK
+PPP1R15A	Hypoxia	HALLMARK
+PPP1R3C	Hypoxia	HALLMARK
+PRDX5	Hypoxia	HALLMARK
+PRKCA	Hypoxia	HALLMARK
+PYGM	Hypoxia	HALLMARK
+RBPJ	Hypoxia	HALLMARK
+RORA	Hypoxia	HALLMARK
+RRAGD	Hypoxia	HALLMARK
+S100A4	Hypoxia	HALLMARK
+SAP30	Hypoxia	HALLMARK
+SCARB1	Hypoxia	HALLMARK
+SDC2	Hypoxia	HALLMARK
+SDC3	Hypoxia	HALLMARK
+SDC4	Hypoxia	HALLMARK
+SELENBP1	Hypoxia	HALLMARK
+SERPINE1	Hypoxia	HALLMARK
+SIAH2	Hypoxia	HALLMARK
+SLC25A1	Hypoxia	HALLMARK
+SLC2A1	Hypoxia	HALLMARK
+SLC2A3	Hypoxia	HALLMARK
+SLC2A5	Hypoxia	HALLMARK
+SLC37A4	Hypoxia	HALLMARK
+SLC6A6	Hypoxia	HALLMARK
+SRPX	Hypoxia	HALLMARK
+STBD1	Hypoxia	HALLMARK
+STC1	Hypoxia	HALLMARK
+STC2	Hypoxia	HALLMARK
+SULT2B1	Hypoxia	HALLMARK
+TES	Hypoxia	HALLMARK
+TGFB3	Hypoxia	HALLMARK
+TGFBI	Hypoxia	HALLMARK
+TGM2	Hypoxia	HALLMARK
+TIPARP	Hypoxia	HALLMARK
+TKTL1	Hypoxia	HALLMARK
+TMEM45A	Hypoxia	HALLMARK
+TNFAIP3	Hypoxia	HALLMARK
+TPBG	Hypoxia	HALLMARK
+TPD52	Hypoxia	HALLMARK
+TPI1	Hypoxia	HALLMARK
+TPST2	Hypoxia	HALLMARK
+UGP2	Hypoxia	HALLMARK
+VEGFA	Hypoxia	HALLMARK
+VHL	Hypoxia	HALLMARK
+VLDLR	Hypoxia	HALLMARK
+WSB1	Hypoxia	HALLMARK
+XPNPEP1	Hypoxia	HALLMARK
+ZFP36	Hypoxia	HALLMARK
+ZNF292	Hypoxia	HALLMARK
+CTNNB1	WNT_beta_Catenin_Signaling	HALLMARK
+ADAM17	WNT_beta_Catenin_Signaling	HALLMARK
+AXIN1	WNT_beta_Catenin_Signaling	HALLMARK
+AXIN2	WNT_beta_Catenin_Signaling	HALLMARK
+CCND2	WNT_beta_Catenin_Signaling	HALLMARK
+CSNK1E	WNT_beta_Catenin_Signaling	HALLMARK
+CTNNB1	WNT_beta_Catenin_Signaling	HALLMARK
+CUL1	WNT_beta_Catenin_Signaling	HALLMARK
+DKK1	WNT_beta_Catenin_Signaling	HALLMARK
+DKK4	WNT_beta_Catenin_Signaling	HALLMARK
+DLL1	WNT_beta_Catenin_Signaling	HALLMARK
+DVL2	WNT_beta_Catenin_Signaling	HALLMARK
+FRAT1	WNT_beta_Catenin_Signaling	HALLMARK
+FZD1	WNT_beta_Catenin_Signaling	HALLMARK
+FZD8	WNT_beta_Catenin_Signaling	HALLMARK
+GNAI1	WNT_beta_Catenin_Signaling	HALLMARK
+HDAC11	WNT_beta_Catenin_Signaling	HALLMARK
+HDAC2	WNT_beta_Catenin_Signaling	HALLMARK
+HDAC5	WNT_beta_Catenin_Signaling	HALLMARK
+HEY1	WNT_beta_Catenin_Signaling	HALLMARK
+HEY2	WNT_beta_Catenin_Signaling	HALLMARK
+JAG1	WNT_beta_Catenin_Signaling	HALLMARK
+JAG2	WNT_beta_Catenin_Signaling	HALLMARK
+KAT2A	WNT_beta_Catenin_Signaling	HALLMARK
+LEF1	WNT_beta_Catenin_Signaling	HALLMARK
+MAML1	WNT_beta_Catenin_Signaling	HALLMARK
+MYC	WNT_beta_Catenin_Signaling	HALLMARK
+NCOR2	WNT_beta_Catenin_Signaling	HALLMARK
+NCSTN	WNT_beta_Catenin_Signaling	HALLMARK
+NKD1	WNT_beta_Catenin_Signaling	HALLMARK
+NOTCH1	WNT_beta_Catenin_Signaling	HALLMARK
+NOTCH4	WNT_beta_Catenin_Signaling	HALLMARK
+NUMB	WNT_beta_Catenin_Signaling	HALLMARK
+PPARD	WNT_beta_Catenin_Signaling	HALLMARK
+PSEN2	WNT_beta_Catenin_Signaling	HALLMARK
+PTCH1	WNT_beta_Catenin_Signaling	HALLMARK
+RBPJ	WNT_beta_Catenin_Signaling	HALLMARK
+SKP2	WNT_beta_Catenin_Signaling	HALLMARK
+TCF7	WNT_beta_Catenin_Signaling	HALLMARK
+TP53	WNT_beta_Catenin_Signaling	HALLMARK
+WNT1	WNT_beta_Catenin_Signaling	HALLMARK
+WNT5B	WNT_beta_Catenin_Signaling	HALLMARK
+WNT6	WNT_beta_Catenin_Signaling	HALLMARK
+APOH	Angiogenesis	HALLMARK
+APP	Angiogenesis	HALLMARK
+CCND2	Angiogenesis	HALLMARK
+COL3A1	Angiogenesis	HALLMARK
+COL5A2	Angiogenesis	HALLMARK
+CXCL6	Angiogenesis	HALLMARK
+FGFR1	Angiogenesis	HALLMARK
+FSTL1	Angiogenesis	HALLMARK
+ITGAV	Angiogenesis	HALLMARK
+JAG1	Angiogenesis	HALLMARK
+JAG2	Angiogenesis	HALLMARK
+KCNJ8	Angiogenesis	HALLMARK
+LPL	Angiogenesis	HALLMARK
+LRPAP1	Angiogenesis	HALLMARK
+LUM	Angiogenesis	HALLMARK
+MSX1	Angiogenesis	HALLMARK
+NRP1	Angiogenesis	HALLMARK
+OLR1	Angiogenesis	HALLMARK
+PDGFA	Angiogenesis	HALLMARK
+PF4	Angiogenesis	HALLMARK
+PGLYRP1	Angiogenesis	HALLMARK
+POSTN	Angiogenesis	HALLMARK
+PRG2	Angiogenesis	HALLMARK
+PTK2	Angiogenesis	HALLMARK
+S100A4	Angiogenesis	HALLMARK
+SERPINA5	Angiogenesis	HALLMARK
+SLCO2A1	Angiogenesis	HALLMARK
+SPP1	Angiogenesis	HALLMARK
+STC1	Angiogenesis	HALLMARK
+THBD	Angiogenesis	HALLMARK
+TIMP1	Angiogenesis	HALLMARK
+TNFRSF21	Angiogenesis	HALLMARK
+VAV2	Angiogenesis	HALLMARK
+VCAN	Angiogenesis	HALLMARK
+VEGFA	Angiogenesis	HALLMARK
+VTN	Angiogenesis	HALLMARK
+HSPA1B	T exhausted	TIDE
+HSPA1A	T exhausted	TIDE
+NR4A2	T exhausted	TIDE
+RGS1	T exhausted	TIDE
+TNFAIP3	T exhausted	TIDE
+CAMK2N1	T exhausted	TIDE
+DUSP1	T exhausted	TIDE
+NR4A3	T exhausted	TIDE
+IFIT3	T exhausted	TIDE
+IFIT1B	T exhausted	TIDE
+FOSB	T exhausted	TIDE
+CCL5	T exhausted	TIDE
+SAMD3	T exhausted	TIDE
+CCL3L3	T exhausted	TIDE
+MACC1	T exhausted	TIDE
+VPS37B	T exhausted	TIDE
+TF	T exhausted	TIDE
+DSEL	T exhausted	TIDE
+SPATA20	T exhausted	TIDE
+ADSSL1	T exhausted	TIDE
+DHX58	T exhausted	TIDE
+SPP1	T exhausted	TIDE
+TRIM15	T exhausted	TIDE
+DUSP26	T exhausted	TIDE
+ABI3	T exhausted	TIDE
+SFN	T exhausted	TIDE
+C1QC	T exhausted	TIDE
+RTP4	T exhausted	TIDE
+JUN	T exhausted	TIDE
+BCKDHB	T exhausted	TIDE
+CCL4	T exhausted	TIDE
+POU6F1	T exhausted	TIDE
+CYSLTR2	T exhausted	TIDE
+SLC14A1	T exhausted	TIDE
+RGS16	T exhausted	TIDE
+CUEDC1	T exhausted	TIDE
+DEDD2	T exhausted	TIDE
+CPEB1	T exhausted	TIDE
+CTSS	T exhausted	TIDE
+TMEM88	T exhausted	TIDE
+FAM196B	T exhausted	TIDE
+SKI	T exhausted	TIDE
+BTG1	T exhausted	TIDE
+SYCP2L	T exhausted	TIDE
+RGS2	T exhausted	TIDE
+ABCB1	T exhausted	TIDE
+ADRB2	T exhausted	TIDE
+CD69	T exhausted	TIDE
+RNF166	T exhausted	TIDE
+TNN	T exhausted	TIDE
+CDH1	T exhausted Late stage	TIDE
+CCL5	T exhausted Late stage	TIDE
+CXCR6	T exhausted Late stage	TIDE
+FGL2	T exhausted Late stage	TIDE
+GLP1R	T exhausted Late stage	TIDE
+FCER1G	T exhausted Late stage	TIDE
+KIF5C	T exhausted Late stage	TIDE
+ABI3	T exhausted Late stage	TIDE
+MYO6	T exhausted Late stage	TIDE
+F2R	T exhausted Late stage	TIDE
+GZMK	T exhausted Late stage	TIDE
+TYROBP	T exhausted Late stage	TIDE
+CD244	T exhausted Late stage	TIDE
+ID2	T exhausted Late stage	TIDE
+CCR5	T exhausted Late stage	TIDE
+NEDD9	T exhausted Late stage	TIDE
+ASB2	T exhausted Late stage	TIDE
+KLRD1	T exhausted Late stage	TIDE
+DAPK2	T exhausted Late stage	TIDE
+OSBPL3	T exhausted Late stage	TIDE
+CA2	T exhausted Late stage	TIDE
+SPRY2	T exhausted Late stage	TIDE
+HCST	T exhausted Late stage	TIDE
+MYO1F	T exhausted Late stage	TIDE
+CD200R1	T exhausted Late stage	TIDE
+CD200R1L	T exhausted Late stage	TIDE
+ITGA1	T exhausted Late stage	TIDE
+AGTRAP	T exhausted Late stage	TIDE
+CHN2	T exhausted Late stage	TIDE
+RTN4RL1	T exhausted Late stage	TIDE
+RGS1	T exhausted Late stage	TIDE
+TXK	T exhausted Late stage	TIDE
+LRRK1	T exhausted Late stage	TIDE
+MYADM	T exhausted Late stage	TIDE
+S100A9	T exhausted Late stage	TIDE
+IL2RB	T exhausted Late stage	TIDE
+CISH	T exhausted Late stage	TIDE
+CASP1	T exhausted Late stage	TIDE
+ACTN2	T exhausted Late stage	TIDE
+USP20	T exhausted Late stage	TIDE
+PGM2L1	T exhausted Late stage	TIDE
+CD96	T exhausted Late stage	TIDE
+RRAS2	T exhausted Late stage	TIDE
+VPS54	T exhausted Late stage	TIDE
+GRINA	T exhausted Late stage	TIDE
+HOXA7	T exhausted Late stage	TIDE
+LOC728392	T exhausted Late stage	TIDE
+VAMP4	T exhausted Late stage	TIDE
+BCL2	T exhausted Late stage	TIDE
+PPM1B	T exhausted Late stage	TIDE
+IL13RA2	MDSC	TIDE
+SERPINE2	MDSC	TIDE
+CT45A1	MDSC	TIDE
+MAGEA4	MDSC	TIDE
+MAGEA3	MDSC	TIDE
+FDCSP	MDSC	TIDE
+XAGE1B	MDSC	TIDE
+IGFBP3	MDSC	TIDE
+BMP2	MDSC	TIDE
+LCN2	MDSC	TIDE
+MRGPRX3	MDSC	TIDE
+RRM2	MDSC	TIDE
+COL9A3	MDSC	TIDE
+UBE2C	MDSC	TIDE
+ID1	MDSC	TIDE
+BEX3	MDSC	TIDE
+CTHRC1	MDSC	TIDE
+AKAP12	MDSC	TIDE
+WWTR1	MDSC	TIDE
+SPOCK1	MDSC	TIDE
+KRT18	MDSC	TIDE
+CT45A5	MDSC	TIDE
+TNC	MDSC	TIDE
+SPANXB1	MDSC	TIDE
+DCBLD2	MDSC	TIDE
+CCNB1	MDSC	TIDE
+SFRP1	MDSC	TIDE
+OVOS2	MDSC	TIDE
+HAS2	MDSC	TIDE
+DKK1	MDSC	TIDE
+MAGEC2	MDSC	TIDE
+S100A16	MDSC	TIDE
+PAGE5	MDSC	TIDE
+PRAME	MDSC	TIDE
+KRT6B	MDSC	TIDE
+FAT1	MDSC	TIDE
+APOBEC3B	MDSC	TIDE
+ITGA2	MDSC	TIDE
+PMEPA1	MDSC	TIDE
+TM4SF1	MDSC	TIDE
+MAGEA2	MDSC	TIDE
+SERPINA3	MDSC	TIDE
+MOCOS	MDSC	TIDE
+TUBB3	MDSC	TIDE
+POPDC3	MDSC	TIDE
+S100A13	MDSC	TIDE
+ASPM	MDSC	TIDE
+GTSF1	MDSC	TIDE
+YAP1	MDSC	TIDE
+CNN3	MDSC	TIDE
+F13A1	TAM M2_M1	TIDE
+FCER1A	TAM M2_M1	TIDE
+CCL17	TAM M2_M1	TIDE
+FOXQ1	TAM M2_M1	TIDE
+ESPNL	TAM M2_M1	TIDE
+CD1A	TAM M2_M1	TIDE
+GATM	TAM M2_M1	TIDE
+CCL13	TAM M2_M1	TIDE
+PALLD	TAM M2_M1	TIDE
+GALNT18	TAM M2_M1	TIDE
+MAOA	TAM M2_M1	TIDE
+RAMP1	TAM M2_M1	TIDE
+STAB1	TAM M2_M1	TIDE
+CCL26	TAM M2_M1	TIDE
+CCL23	TAM M2_M1	TIDE
+PARM1	TAM M2_M1	TIDE
+CD1E	TAM M2_M1	TIDE
+ITM2C	TAM M2_M1	TIDE
+CALCRL	TAM M2_M1	TIDE
+CRH	TAM M2_M1	TIDE
+RGS18	TAM M2_M1	TIDE
+MS4A6A	TAM M2_M1	TIDE
+DHRS2	TAM M2_M1	TIDE
+PON2	TAM M2_M1	TIDE
+ALOX15	TAM M2_M1	TIDE
+RAB33A	TAM M2_M1	TIDE
+MOCOS	TAM M2_M1	TIDE
+CCL18	TAM M2_M1	TIDE
+IL17RB	TAM M2_M1	TIDE
+FABP4	TAM M2_M1	TIDE
+CMTM8	TAM M2_M1	TIDE
+QPRT	TAM M2_M1	TIDE
+CDR2L	TAM M2_M1	TIDE
+DUOXA1	TAM M2_M1	TIDE
+ABCC4	TAM M2_M1	TIDE
+SYT17	TAM M2_M1	TIDE
+PPP1R14A	TAM M2_M1	TIDE
+PDGFC	TAM M2_M1	TIDE
+GPT	TAM M2_M1	TIDE
+FAM189A2	TAM M2_M1	TIDE
+RASAL1	TAM M2_M1	TIDE
+IPCEF1	TAM M2_M1	TIDE
+ZNF366	TAM M2_M1	TIDE
+MAP4K1	TAM M2_M1	TIDE
+RAB30	TAM M2_M1	TIDE
+PCED1B	TAM M2_M1	TIDE
+TMIGD3	TAM M2_M1	TIDE
+SH3BP4	TAM M2_M1	TIDE
+RRS1	TAM M2_M1	TIDE
+RNASE1	TAM M2_M1	TIDE
+COL3A1	CAF	TIDE
+COL1A2	CAF	TIDE
+COL1A1	CAF	TIDE
+CTSK	CAF	TIDE
+THBS2	CAF	TIDE
+COL6A3	CAF	TIDE
+C1S	CAF	TIDE
+COL5A1	CAF	TIDE
+C3	CAF	TIDE
+SFRP2	CAF	TIDE
+COL6A1	CAF	TIDE
+C1R	CAF	TIDE
+VCAN	CAF	TIDE
+MXRA5	CAF	TIDE
+MMP3	CAF	TIDE
+ISLR	CAF	TIDE
+DCN	CAF	TIDE
+COL5A2	CAF	TIDE
+CRISPLD2	CAF	TIDE
+CDR1	CAF	TIDE
+CXCL14	CAF	TIDE
+COL12A1	CAF	TIDE
+ADAMDEC1	CAF	TIDE
+AEBP1	CAF	TIDE
+LUM	CAF	TIDE
+MMP1	CAF	TIDE
+SERPINF1	CAF	TIDE
+TIMP2	CAF	TIDE
+IGFBP5	CAF	TIDE
+SPARC	CAF	TIDE
+CHI3L1	CAF	TIDE
+PLAT	CAF	TIDE
+SULF1	CAF	TIDE
+GREM1	CAF	TIDE
+BGN	CAF	TIDE
+DKK3	CAF	TIDE
+COL8A1	CAF	TIDE
+TIMP1	CAF	TIDE
+RARRES2	CAF	TIDE
+C11orf96	CAF	TIDE
+FBN1	CAF	TIDE
+TMEM158	CAF	TIDE
+THY1	CAF	TIDE
+PCOLCE	CAF	TIDE
+CYR61	CAF	TIDE
+EFEMP1	CAF	TIDE
+CTHRC1	CAF	TIDE
+ACTA2-AS1	CAF	TIDE
+FBLN1	CAF	TIDE
+CXCL1	CAF	TIDE
+HLA-A	Antigen presenting machinery	Sanders
+HLA-B	Antigen presenting machinery	Sanders
+HLA-C	Antigen presenting machinery	Sanders
+B2M	Antigen presenting machinery	Sanders
+TAP1	Antigen presenting machinery	Sanders
+TAP2	Antigen presenting machinery	Sanders
+TAPBP	Antigen presenting machinery	Sanders
+CXCL1	Inflammatory-Angiogenic	Chemokines
+CXCL2	Inflammatory-Angiogenic	Chemokines
+CXCL3	Inflammatory-Angiogenic	Chemokines
+CXCL5	Inflammatory-Angiogenic	Chemokines
+CXCL6	Inflammatory-Angiogenic	Chemokines
+IL8	Inflammatory-Angiogenic	Chemokines
+CXCL9	Inflammatory-Angiostatic	Chemokines
+CXCL10	Inflammatory-Angiostatic	Chemokines
+CXCL11	Inflammatory-Angiostatic	Chemokines
+CXCL16	Inflammatory	Chemokines
+CCL1	Inflammatory	Chemokines
+CCL2	Inflammatory	Chemokines
+CCL3	Inflammatory	Chemokines
+CCL4	Inflammatory	Chemokines
+CCL5	Inflammatory	Chemokines
+CCL6	Inflammatory	Chemokines
+CCL7	Inflammatory	Chemokines
+CCL8	Inflammatory	Chemokines
+CCL13	Inflammatory	Chemokines
+CCL26	Inflammatory	Chemokines
+VEGF	Chronic	Inflammation
+IL6	Chronic	Inflammation
+IL7	Chronic	Inflammation
+IL8	Chronic	Inflammation
+IL2	Chronic	Inflammation
+RANTES	Chronic	Inflammation
+FGF2	Chronic	Inflammation
+NFKB	Chronic	Inflammation
+TNF	Chronic	Inflammation
+TGFB	Chronic	Inflammation
+CCL4	Chronic	Inflammation
+ABI3BP	EMT	HALLMARK
+ACTA2	EMT	HALLMARK
+ADAM12	EMT	HALLMARK
+ANPEP	EMT	HALLMARK
+APLP1	EMT	HALLMARK
+AREG	EMT	HALLMARK
+BASP1	EMT	HALLMARK
+BDNF	EMT	HALLMARK
+BGN	EMT	HALLMARK
+BMP1	EMT	HALLMARK
+CADM1	EMT	HALLMARK
+CALD1	EMT	HALLMARK
+CALU	EMT	HALLMARK
+CAP2	EMT	HALLMARK
+CAPG	EMT	HALLMARK
+CCN1	EMT	HALLMARK
+CCN2	EMT	HALLMARK
+CD44	EMT	HALLMARK
+CD59	EMT	HALLMARK
+CDH11	EMT	HALLMARK
+CDH2	EMT	HALLMARK
+CDH6	EMT	HALLMARK
+COL11A1	EMT	HALLMARK
+COL12A1	EMT	HALLMARK
+COL16A1	EMT	HALLMARK
+COL1A1	EMT	HALLMARK
+COL1A2	EMT	HALLMARK
+COL3A1	EMT	HALLMARK
+COL4A1	EMT	HALLMARK
+COL4A2	EMT	HALLMARK
+COL5A1	EMT	HALLMARK
+COL5A2	EMT	HALLMARK
+COL5A3	EMT	HALLMARK
+COL6A2	EMT	HALLMARK
+COL6A3	EMT	HALLMARK
+COL7A1	EMT	HALLMARK
+COL8A2	EMT	HALLMARK
+COLGALT1	EMT	HALLMARK
+COMP	EMT	HALLMARK
+COPA	EMT	HALLMARK
+CRLF1	EMT	HALLMARK
+CTHRC1	EMT	HALLMARK
+CXCL1	EMT	HALLMARK
+CXCL12	EMT	HALLMARK
+CXCL6	EMT	HALLMARK
+CXCL8	EMT	HALLMARK
+DAB2	EMT	HALLMARK
+DCN	EMT	HALLMARK
+DKK1	EMT	HALLMARK
+DPYSL3	EMT	HALLMARK
+DST	EMT	HALLMARK
+ECM1	EMT	HALLMARK
+ECM2	EMT	HALLMARK
+EDIL3	EMT	HALLMARK
+EFEMP2	EMT	HALLMARK
+ELN	EMT	HALLMARK
+EMP3	EMT	HALLMARK
+ENO2	EMT	HALLMARK
+FAP	EMT	HALLMARK
+FAS	EMT	HALLMARK
+FBLN1	EMT	HALLMARK
+FBLN2	EMT	HALLMARK
+FBLN5	EMT	HALLMARK
+FBN1	EMT	HALLMARK
+FBN2	EMT	HALLMARK
+FERMT2	EMT	HALLMARK
+FGF2	EMT	HALLMARK
+FLNA	EMT	HALLMARK
+FMOD	EMT	HALLMARK
+FN1	EMT	HALLMARK
+FOXC2	EMT	HALLMARK
+FSTL1	EMT	HALLMARK
+FSTL3	EMT	HALLMARK
+FUCA1	EMT	HALLMARK
+FZD8	EMT	HALLMARK
+GADD45A	EMT	HALLMARK
+GADD45B	EMT	HALLMARK
+GAS1	EMT	HALLMARK
+GEM	EMT	HALLMARK
+GJA1	EMT	HALLMARK
+GLIPR1	EMT	HALLMARK
+GPC1	EMT	HALLMARK
+GPX7	EMT	HALLMARK
+GREM1	EMT	HALLMARK
+HTRA1	EMT	HALLMARK
+ID2	EMT	HALLMARK
+IGFBP2	EMT	HALLMARK
+IGFBP3	EMT	HALLMARK
+IGFBP4	EMT	HALLMARK
+IL15	EMT	HALLMARK
+IL32	EMT	HALLMARK
+IL6	EMT	HALLMARK
+INHBA	EMT	HALLMARK
+ITGA2	EMT	HALLMARK
+ITGA5	EMT	HALLMARK
+ITGAV	EMT	HALLMARK
+ITGB1	EMT	HALLMARK
+ITGB3	EMT	HALLMARK
+ITGB5	EMT	HALLMARK
+JUN	EMT	HALLMARK
+LAMA1	EMT	HALLMARK
+LAMA2	EMT	HALLMARK
+LAMA3	EMT	HALLMARK
+LAMC1	EMT	HALLMARK
+LAMC2	EMT	HALLMARK
+LGALS1	EMT	HALLMARK
+LOX	EMT	HALLMARK
+LOXL1	EMT	HALLMARK
+LOXL2	EMT	HALLMARK
+LRP1	EMT	HALLMARK
+LRRC15	EMT	HALLMARK
+LUM	EMT	HALLMARK
+MAGEE1	EMT	HALLMARK
+MATN2	EMT	HALLMARK
+MATN3	EMT	HALLMARK
+MCM7	EMT	HALLMARK
+MEST	EMT	HALLMARK
+MFAP5	EMT	HALLMARK
+MGP	EMT	HALLMARK
+MMP1	EMT	HALLMARK
+MMP14	EMT	HALLMARK
+MMP2	EMT	HALLMARK
+MMP3	EMT	HALLMARK
+MSX1	EMT	HALLMARK
+MXRA5	EMT	HALLMARK
+MYL9	EMT	HALLMARK
+MYLK	EMT	HALLMARK
+NID2	EMT	HALLMARK
+NNMT	EMT	HALLMARK
+NOTCH2	EMT	HALLMARK
+NT5E	EMT	HALLMARK
+NTM	EMT	HALLMARK
+OXTR	EMT	HALLMARK
+P3H1	EMT	HALLMARK
+PCOLCE	EMT	HALLMARK
+PCOLCE2	EMT	HALLMARK
+PDGFRB	EMT	HALLMARK
+PDLIM4	EMT	HALLMARK
+PFN2	EMT	HALLMARK
+PLAUR	EMT	HALLMARK
+PLOD1	EMT	HALLMARK
+PLOD2	EMT	HALLMARK
+PLOD3	EMT	HALLMARK
+PMEPA1	EMT	HALLMARK
+PMP22	EMT	HALLMARK
+POSTN	EMT	HALLMARK
+PPIB	EMT	HALLMARK
+PRRX1	EMT	HALLMARK
+PRSS2	EMT	HALLMARK
+PTHLH	EMT	HALLMARK
+PTX3	EMT	HALLMARK
+PVR	EMT	HALLMARK
+QSOX1	EMT	HALLMARK
+RGS4	EMT	HALLMARK
+RHOB	EMT	HALLMARK
+SAT1	EMT	HALLMARK
+SCG2	EMT	HALLMARK
+SDC1	EMT	HALLMARK
+SDC4	EMT	HALLMARK
+SERPINE1	EMT	HALLMARK
+SERPINE2	EMT	HALLMARK
+SERPINH1	EMT	HALLMARK
+SFRP1	EMT	HALLMARK
+SFRP4	EMT	HALLMARK
+SGCB	EMT	HALLMARK
+SGCD	EMT	HALLMARK
+SGCG	EMT	HALLMARK
+SLC6A8	EMT	HALLMARK
+SLIT2	EMT	HALLMARK
+SLIT3	EMT	HALLMARK
+SNAI2	EMT	HALLMARK
+SNTB1	EMT	HALLMARK
+SPARC	EMT	HALLMARK
+SPOCK1	EMT	HALLMARK
+SPP1	EMT	HALLMARK
+TAGLN	EMT	HALLMARK
+TFPI2	EMT	HALLMARK
+TGFB1	EMT	HALLMARK
+TGFBI	EMT	HALLMARK
+TGFBR3	EMT	HALLMARK
+TGM2	EMT	HALLMARK
+THBS1	EMT	HALLMARK
+THBS2	EMT	HALLMARK
+THY1	EMT	HALLMARK
+TIMP1	EMT	HALLMARK
+TIMP3	EMT	HALLMARK
+TNC	EMT	HALLMARK
+TNFAIP3	EMT	HALLMARK
+TNFRSF11B	EMT	HALLMARK
+TNFRSF12A	EMT	HALLMARK
+TPM1	EMT	HALLMARK
+TPM2	EMT	HALLMARK
+TPM4	EMT	HALLMARK
+VCAM1	EMT	HALLMARK
+VCAN	EMT	HALLMARK
+VEGFA	EMT	HALLMARK
+VEGFC	EMT	HALLMARK
+VIM	EMT	HALLMARK
+WIPF1	EMT	HALLMARK
+WNT5A	EMT	HALLMARK
+CDH1	EMT	Canonical Marker
+VIM	EMT	Canonical Marker
+CDH2	EMT	Canonical Marker
+FN1	EMT	Canonical Marker
+B2M	MHC	Pallocca
+TAP1	MHC	Pallocca
+TAP2	MHC	Pallocca
+HLA-A	MHC	Pallocca
+HLA-B	MHC	Pallocca
+HLA-C	MHC	Pallocca
+HLA-DPA1	MHC	Pallocca
+HLA-DPB1	MHC	Pallocca
+HLA-E	MHC	Pallocca
+HLA-F	MHC	Pallocca
+PDCD1	Checkpoint	Pallocca
+CTLA4	Checkpoint	Pallocca
+LAG3	Checkpoint	Pallocca
+TIGIT	Checkpoint	Pallocca
+HAVCR2	Checkpoint	Pallocca
+CD274	Checkpoint	Pallocca
+PDCD1LG2	Checkpoint	Pallocca
+CD27	Checkpoint	Pallocca
+ICOS	Checkpoint	Pallocca
+IDO1	Checkpoint	Pallocca
+KDR	AXL pathway	Pallocca
+MET	AXL pathway	Pallocca
+AXL	AXL pathway	Pallocca
+TEK	AXL pathway	Pallocca
+MERTK	AXL pathway	Pallocca
+TYRO3	AXL pathway	Pallocca
+RET	AXL pathway	Pallocca
+FLT1	AXL pathway	Pallocca
+FLT4	AXL pathway	Pallocca
+GAS6	AXL pathway	Pallocca
+LAMA3	ICB resistance signature 3	Pallocca
+CST2	ICB resistance signature 3	Pallocca
+CNN1	ICB resistance signature 2	Pallocca
+SERPINF2	ICB resistance signature 2	Pallocca
+COL3A1	ICB resistance signature 2	Pallocca
+MXRA7	ICB resistance signature 2	Pallocca
+AXL	ICB resistance signature 1	Pallocca
+ROR2	ICB resistance signature 1	Pallocca
+WNT5A	ICB resistance signature 1	Pallocca
+LOXL2	ICB resistance signature 1	Pallocca
+TWIST2	ICB resistance signature 1	Pallocca
+TAGLN	ICB resistance signature 1	Pallocca
+FAP	ICB resistance signature 1	Pallocca
+MMP1	ICB resistance signature 1	Pallocca
+MMP13	ICB resistance signature 1	Pallocca
+COL8A1	ICB resistance signature 1	Pallocca
+COL12A1	ICB resistance signature 1	Pallocca
+INHBA	ICB resistance signature 1	Pallocca
+FBLN1	ICB resistance signature 1	Pallocca
+ADAMTS7	ICB resistance signature 1	Pallocca
+CD3D	IFN-y (expanded set)	Pallocca
+IDO1	IFN-y (expanded set)	Pallocca
+CIITA	IFN-y (expanded set)	Pallocca
+CD3E	IFN-y (expanded set)	Pallocca
+CCL5	IFN-y (expanded set)	Pallocca
+GZMK	IFN-y (expanded set)	Pallocca
+CD2	IFN-y (expanded set)	Pallocca
+HLA-DRA	IFN-y (expanded set)	Pallocca
+CXCL13	IFN-y (expanded set)	Pallocca
+IL2RG	IFN-y (expanded set)	Pallocca
+NKG7	IFN-y (expanded set)	Pallocca
+HLA-E	IFN-y (expanded set)	Pallocca
+CXCR6	IFN-y (expanded set)	Pallocca
+LAG3	IFN-y (expanded set)	Pallocca
+TAGAP	IFN-y (expanded set)	Pallocca
+CXCL10	IFN-y (expanded set)	Pallocca
+STAT1	IFN-y (expanded set)	Pallocca
+GZMB	IFN-y (expanded set)	Pallocca
+IDO1	IFN-y (reduced set)	Pallocca
+CXCL10	IFN-y (reduced set)	Pallocca
+CXCL9	IFN-y (reduced set)	Pallocca
+HLA-DRA	IFN-y (reduced set)	Pallocca
+STAT1	IFN-y (reduced set)	Pallocca
+IFNG	IFN-y (reduced set)	Pallocca
+POLE	MMR machinery 	Pallocca
+POLE2	MMR machinery 	Pallocca
+POLE3	MMR machinery 	Pallocca
+POLE4	MMR machinery 	Pallocca
+MLH1	MMR machinery 	Pallocca
+TEK	Endothelial	CellMarker
+INSR	Endothelial	CellMarker
+TSPAN7	Endothelial	CellMarker
+TNFRSF17	Endothelial	CellMarker
+BMPR1A	Endothelial	CellMarker
+KDR	Endothelial	CellMarker
+FGFR2	Endothelial	CellMarker
+CEACAM1	Endothelial	CellMarker
+CEACAM3	Endothelial	CellMarker
+NT5E	Endothelial	CellMarker
+PROCR	Endothelial	CellMarker
+A4GALT	Endothelial	CellMarker
+IL3RA	Endothelial	CellMarker
+PROM1	Endothelial	CellMarker
+CDH5	Endothelial	CellMarker
+MCAM	Endothelial	CellMarker
+PECAM1	Endothelial	CellMarker
+PTPRC	Endothelial	CellMarker
+ESM1	Endothelial	CellMarker
+F8	Endothelial	CellMarker
+STX1A	Endothelial	CellMarker
+LYVE1	Endothelial	CellMarker
+VEGFA	Endothelial	CellMarker
+FLT4	Endothelial	CellMarker
+CD34	Endothelial	CellMarker
+PDPN	Endothelial	CellMarker
+PROX1	Endothelial	CellMarker
+SBSN	Endothelial	CellMarker
+VWF	Endothelial	CellMarker
+MME	Fibroblast	CellMarker
+PVRL1	Fibroblast	CellMarker
+PDGFRB	Fibroblast	CellMarker
+ADAM17	Fibroblast	CellMarker
+NGFR	Fibroblast	CellMarker
+THY1	Fibroblast	CellMarker
+COL11A1	Fibroblast	CellMarker
+C5AR2	Fibroblast	CellMarker
+MRC1	Macrophage M2	CellMarker
+CD163	Macrophage M2	CellMarker
+ACTA2	CAF	pro-tumorigenesis
+S100A4	CAF	pro-tumorigenesis
+FAP	CAF	pro-tumorigenesis
+PDGFRA	CAF	pro-tumorigenesis
+PDGFRB	CAF	pro-tumorigenesis
+PDPN	CAF	pro-tumorigenesis
+CD70	CAF	pro-tumorigenesis
+VIM	CAF	pro-tumorigenesis
+C5AR2	CAF	pro-tumorigenesis
+MME	CAF	pro-tumorigenesis
+CD74	CAF	pro-tumorigenesis
+SAA3P	CAF	pro-tumorigenesis
+ACTA2	CAF	Tumo suppresive
+S100A4	CAF	Tumo suppresive
+MCAM	CAF	Tumo suppresive
+CAV1	CAF	Tumo suppresive
+ACTA2	Fibroblasts	Literature
+COL1A1	Fibroblasts	Literature
+COL1A2	Fibroblasts	Literature
+COL3A1	Fibroblasts	Literature
+S100A4	Fibroblasts	Literature
+THY1	Fibroblasts	Literature
+TSLP	Fibroblasts	Literature
+VIM	Fibroblasts	Literature
+BIRC5	Epithelial	Literature
+CD2	Epithelial	Literature
+CDH1	Epithelial	Literature
+ITGA1	Epithelial	Literature
+ITGA2	Epithelial	Literature
+ITGA3	Epithelial	Literature
+ITGA4	Epithelial	Literature
+ITGA5	Epithelial	Literature
+ITGA6	Epithelial	Literature
+ITGAL	Epithelial	Literature
+KLK3	Epithelial	Literature
+KRT1	Epithelial	Literature
+KRT10	Epithelial	Literature
+KRT14	Epithelial	Literature
+KRT15	Epithelial	Literature
+KRT16	Epithelial	Literature
+KRT18	Epithelial	Literature
+KRT2	Epithelial	Literature
+KRT3	Epithelial	Literature
+KRT5	Epithelial	Literature
+KRT6A	Epithelial	Literature
+KRT7	Epithelial	Literature
+KRT8	Epithelial	Literature
+MUC1	Epithelial	Literature
+SCNN1A	Epithelial	Literature
+SCNN1B	Epithelial	Literature
+SCNN1D	Epithelial	Literature
+SCNN1G	Epithelial	Literature
+SFTPA1	Epithelial	Literature
+SFTPB	Epithelial	Literature
+SFTPC	Epithelial	Literature
+SFTPD	Epithelial	Literature
+ACKR1	Endothelial	Literature
+APLN	Endothelial	Literature
+CD55	Endothelial	Literature
+CDH5	Endothelial	Literature
+FLT1	Endothelial	Literature
+FLT4	Endothelial	Literature
+KDR	Endothelial	Literature
+MCAM	Endothelial	Literature
+NOS3	Endothelial	Literature
+PECAM1	Endothelial	Literature
+SELE	Endothelial	Literature
+THBD	Endothelial	Literature
+VWF	Endothelial	Literature
