@@ -2,7 +2,7 @@
 
 #Load libraries and packages
 
-#source('Path/to/Cobersort/Code/CIBERSORT.R') #add the path to cibersort R code obatined from https://cibersortx.stanford.edu
+#source('Path/to/Cibersort/Code/CIBERSORT.R') #add the path to cibersort R code obatined from https://cibersortx.stanford.edu
 
 suppressPackageStartupMessages(library(parallel))
 suppressPackageStartupMessages(library(readr))
