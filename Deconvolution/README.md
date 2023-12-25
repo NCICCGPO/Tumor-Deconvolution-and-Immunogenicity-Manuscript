@@ -27,8 +27,19 @@ Additional required R packages can be installed from the following links:
 [EPIC](https://github.com/GfellerLab/EPIC)\
 [Immunedeconv](https://github.com/omnideconv/immunedeconv/)
 
+The outputs from this code are deconvolution estimates from individual tools and the corresponding output filenames contain the name of the tool  (e.g., *xCell_PBM.txt, Cibersort_PBM.txt*) and placed in the output directory defined by the user.
+
+
 ### Deconvolution Estimate Integration
 
-```iScore_calc.R``` converts the deconvolution results into normalized scores for each cell type across all samples deconvolved and integrates them into iScores based on groupings defined in *Signatures/celltype_labels.txt*.
+```iScore_calc.R``` converts the deconvolution estimates into normalized scores for each cell type across all samples and integrates them into iScores based on groupings defined in *Signatures/celltype_labels.txt*. The input is a folder containing deconvolution result files for individual tools. Ideally, the input file names contain the name of the tool e.g., *Cibersort_PBM.txt*. In each file, samples are rows and celltypes are columns. 
+
+```
+Rscript iScore_calc.R COHORT_NAME /PATH/TO/DECONVOLUTION_OUTPUTS_FOLDER /PATH/TO/OUTPUTDIR /PATH/TO/Signatures
+```
+
+The outputs from this code are: a compiled file with normalized estimates from all tool, a file with leukocyt iScores, and a file with individual celltype iScores.
+
+
 
 
