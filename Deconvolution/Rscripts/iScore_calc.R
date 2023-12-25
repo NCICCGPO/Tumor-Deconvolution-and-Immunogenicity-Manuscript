@@ -7,8 +7,8 @@ args <- commandArgs(trailingOnly = TRUE)
 cohort=args[1]  #Cohort identifier for use as a  prefix for output files (e.g. test) and labeling
 decon_dir=args[2]  #Full file path to the dir containing deconvolution tool outputs. The files in this folder are names as [Tool]_PBM.txt i.e., CIBERSORTx_PBM.txt,Cibersort_PBM.txt,EPIC-mRNA_PBM.txt,MCP_PBM.txt,SGL_PBM.txt,TIMER_PBM.txt,quantiseq_PBM.txt,ssGSEA_PBM.txt,xCell_PBM.txt
 outDir=args[3]  #Full path to desired output directory
+sig_folder=args[4] #Full dir path for the folder containing the signatures
 
-sig_folder="Signatures" #Full dir path for the folder containing the signatures
 cell_groupings_file=paste0(sig_folder,"/celltype_labels.txt")
 
 
@@ -56,7 +56,7 @@ for (i in files){
   }
 }
 
-dim(decon.z); decon.z[1:6,1:6]
+#dim(decon.z); decon.z[1:6,1:6]
   
 write.table(data.frame("SampleID"=row.names(decon.z),decon.z),paste0(outDir,"/All_tools_zscore_",cohort,".txt"), sep="\t",quote=F,row.names=F)
 
