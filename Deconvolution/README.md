@@ -32,13 +32,13 @@ The outputs from this code are deconvolution estimates from individual tools and
 
 ### Deconvolution Estimate Integration
 
-```iScore_calc.R``` converts the deconvolution estimates into normalized scores for each cell type across all samples and integrates them into iScores based on groupings defined in *Signatures/celltype_labels.txt*. The input is a folder containing deconvolution result files for individual tools. Ideally, the input file names contain the name of the tool e.g., *Cibersort_PBM.txt*. In each file, samples are rows and celltypes are columns. 
+```iScore_calc.R``` converts the deconvolution estimates into normalized scores for each cell type across all samples and integrates them into iScores based on groupings defined in *Signatures/celltype_labels.txt*. The input is a folder containing deconvolution result files for individual tools. The input file names must contain the name of the tool as so *xCell_PBM.txt, Cibersort_PBM.txt*. In each file, samples are rows and celltypes are columns. 
 
 ```
 Rscript iScore_calc.R COHORT_NAME /PATH/TO/DECONVOLUTION_OUTPUTS_FOLDER /PATH/TO/OUTPUTDIR /PATH/TO/Signatures
 ```
 
-The outputs from this code are: a compiled file with normalized estimates from all tool, a file with leukocyt iScores, and a file with individual celltype iScores.
+The outputs from this code are a compiled file with normalized estimates from all tool, a file with leukocyt iScores, and a file with individual celltype iScores.
 
 
 
