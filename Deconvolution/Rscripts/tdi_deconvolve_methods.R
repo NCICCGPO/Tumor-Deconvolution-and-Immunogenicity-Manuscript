@@ -4,14 +4,14 @@
 
 #source('Path/to/Cobersort/Code/CIBERSORT.R') #add the path to cibersort R code obatined from https://cibersortx.stanford.edu
 
-library(parallel)
-library(readr)
-library(lsgl)
-library(xCell)
-library(GSVA)
-library(MCPcounter)
-library(immunedeconv)
-library(EPIC)
+suppressPackageStartupMessages(library(parallel))
+suppressPackageStartupMessages(library(readr))
+suppressPackageStartupMessages(library(lsgl))
+suppressPackageStartupMessages(library(xCell))
+suppressPackageStartupMessages(library(GSVA))
+suppressPackageStartupMessages(library(MCPcounter))
+suppressPackageStartupMessages(library(immunedeconv))
+suppressPackageStartupMessages(library(EPIC))
 
 
 ## FUNCTIONS
